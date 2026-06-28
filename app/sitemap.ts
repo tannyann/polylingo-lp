@@ -1,8 +1,8 @@
 import type { MetadataRoute } from 'next';
-
-const siteUrl = 'https://polylingo.app';
+import { getSiteUrl } from '@/lib/site';
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  const siteUrl = getSiteUrl();
   const routes = ['', '/learning-system', '/privacy', '/terms'];
 
   return routes.map((route) => ({

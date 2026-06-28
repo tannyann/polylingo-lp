@@ -190,7 +190,7 @@ export default function SignupForm({ signup }: SignupFormProps) {
             <legend className="text-sm font-semibold text-lightblue">
               {signup.fields.targetLanguages}
             </legend>
-            <div className="mt-3 grid grid-cols-2 gap-2 sm:grid-cols-4">
+            <div className="mt-3 grid grid-cols-1 gap-2 sm:grid-cols-2 lg:grid-cols-4">
               {LANGUAGE_PILLS.map(({ code, label }) => (
                 <label
                   key={code}

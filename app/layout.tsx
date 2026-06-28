@@ -4,6 +4,7 @@ import { Analytics } from '@vercel/analytics/react';
 import AnalyticsProvider from '@/components/AnalyticsProvider';
 import MotionProvider from '@/components/MotionProvider';
 import { JsonLd } from '@/components/JsonLd';
+import { getSiteUrl } from '@/lib/site';
 import { pages } from '@/lib/copy';
 import './globals.css';
 
@@ -21,7 +22,7 @@ const notoSansJp = Noto_Sans_JP({
   display: 'swap',
 });
 
-const siteUrl = 'https://polylingo.app';
+const siteUrl = getSiteUrl();
 const defaultCopy = pages.ja;
 
 export const metadata: Metadata = {
@@ -57,6 +58,10 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   themeColor: '#1F3864',
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 5,
+  viewportFit: 'cover',
 };
 
 export default function RootLayout({

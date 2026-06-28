@@ -22,10 +22,13 @@
   }
 
   body {
-    @apply bg-bg font-sans text-text antialiased;
+    @apply overflow-x-hidden bg-bg font-sans text-text antialiased;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.7;
+    -webkit-text-size-adjust: 100%;
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
   }
 
   ::selection {
@@ -58,13 +61,13 @@
 
 @layer components {
   .font-display {
-    font-size: clamp(2.5rem, 6vw, 4.5rem);
+    font-size: clamp(1.875rem, 7vw, 4.5rem);
     font-weight: 800;
-    line-height: 1.1;
+    line-height: 1.15;
   }
 
   .font-title {
-    font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+    font-size: clamp(1.5rem, 5vw, 2.5rem);
     font-weight: 700;
     line-height: 1.2;
   }
@@ -82,7 +85,7 @@
   }
 
   .section {
-    @apply px-6 py-20 md:px-8 md:py-32;
+    @apply px-4 py-16 sm:px-6 sm:py-20 md:px-8 md:py-32;
   }
 
   .container-content {

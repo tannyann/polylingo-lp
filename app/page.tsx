@@ -16,7 +16,10 @@ export default function Home() {
   const copy = getPageCopy();
 
   return (
-    <main id="main-content" className="pb-24 md:pb-0">
+    <main
+      id="main-content"
+      className="pb-[max(6rem,calc(5rem+env(safe-area-inset-bottom)))] md:pb-0"
+    >
       <Hero hero={copy.hero} />
       <Problem problem={copy.problem} />
       <Solution solution={copy.solution} />

@@ -41,7 +41,7 @@ export default function Hero({ hero }: HeroProps) {
   return (
     <section
       aria-labelledby="hero-headline"
-      className="relative flex min-h-screen items-center bg-hero-gradient px-6 py-16 text-white md:min-h-[90vh] md:px-8 md:py-20"
+      className="relative flex min-h-[100dvh] items-center bg-hero-gradient px-4 py-12 text-white sm:px-6 sm:py-16 md:min-h-[90vh] md:px-8 md:py-20"
     >
       <div className="container-content grid w-full gap-12 lg:grid-cols-2 lg:items-center lg:gap-16">
         <motion.div
@@ -66,7 +66,7 @@ export default function Hero({ hero }: HeroProps) {
 
           <motion.p
             variants={fadeUp}
-            className="mt-6 max-w-xl text-lg font-medium leading-relaxed text-lightblue md:text-xl"
+            className="mt-6 max-w-xl text-base font-medium leading-relaxed text-lightblue sm:text-lg md:text-xl"
           >
             {hero.subheadline}
           </motion.p>
@@ -75,7 +75,7 @@ export default function Hero({ hero }: HeroProps) {
             <a
               href={hero.ctaHref}
               onClick={() => trackEvent('hero_cta_click')}
-              className="btn inline-flex w-full rounded-full bg-white px-6 py-3 font-semibold text-navy shadow-card transition duration-200 hover:scale-105 hover:shadow-card-hover focus-visible:ring-white sm:w-auto"
+              className="btn inline-flex min-h-[48px] w-full justify-center rounded-full bg-white px-4 py-3.5 text-center text-sm font-semibold leading-snug text-navy shadow-card transition duration-200 hover:scale-105 hover:shadow-card-hover focus-visible:ring-white sm:w-auto sm:px-6 sm:text-base"
             >
               {hero.cta}
             </a>
@@ -88,7 +88,7 @@ export default function Hero({ hero }: HeroProps) {
             initial="hidden"
             animate="visible"
             variants={pillContainer}
-            className="-mx-6 flex gap-3 overflow-x-auto px-6 pb-2 scrollbar-hide lg:hidden"
+            className="-mx-4 flex snap-x snap-mandatory gap-3 overflow-x-auto px-4 pb-2 scrollbar-hide sm:-mx-6 sm:px-6 lg:hidden"
             aria-label="対応8言語"
           >
             {LANGUAGE_PILLS.map((lang) => (

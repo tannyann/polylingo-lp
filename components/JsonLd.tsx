@@ -1,9 +1,10 @@
 import { pages } from '@/lib/copy';
+import { getSiteUrl } from '@/lib/site';
 
 const copy = pages.ja;
-const siteUrl = 'https://polylingo.app';
 
 export function JsonLd() {
+  const siteUrl = getSiteUrl();
   const structuredData = {
     '@context': 'https://schema.org',
     '@graph': [

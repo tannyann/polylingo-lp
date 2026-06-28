@@ -29,33 +29,72 @@ export default function Comparison({ comparison }: ComparisonProps) {
           >
             {comparison.title}
           </h2>
-          <p className="mx-auto mt-4 max-w-2xl text-text-muted">
+          <p className="mx-auto mt-4 max-w-2xl text-base text-text-muted sm:text-lg">
             {comparison.subtitle}
           </p>
         </motion.div>
 
+        {/* Mobile: card stack */}
         <motion.div
           initial="hidden"
           whileInView="visible"
           viewport={viewportOnce}
           variants={fadeUp}
-          className="mt-12 overflow-x-auto"
+          className="mt-10 space-y-4 md:hidden"
+          role="list"
+          aria-label="Duolingo と PolyLingo の比較"
+        >
+          {comparison.rows.map((row) => (
+            <article key={row.label} className="card" role="listitem">
+              <h3 className="text-base font-bold text-navy">{row.label}</h3>
+              <dl className="mt-3 space-y-3 text-sm">
+                <div>
+                  <dt className="font-caption text-text-muted">Duolingo</dt>
+                  <dd className="mt-1 text-text-muted">{row.duolingo}</dd>
+                </div>
+                <div className="rounded-xl bg-lightblue/60 p-3">
+                  <dt className="font-caption text-navy">PolyLingo</dt>
+                  <dd className="mt-1 font-semibold text-navy">
+                    {row.polylingo}
+                  </dd>
+                </div>
+              </dl>
+            </article>
+          ))}
+        </motion.div>
+
+        {/* Desktop: table */}
+        <motion.div
+          initial="hidden"
+          whileInView="visible"
+          viewport={viewportOnce}
+          variants={fadeUp}
+          className="mt-12 hidden overflow-x-auto md:block"
           role="region"
           aria-label="Duolingo と PolyLingo の比較表"
         >
-          <table className="w-full min-w-[540px] border-collapse text-left">
+          <table className="w-full border-collapse text-left">
             <caption className="sr-only">
               {comparison.title} — Duolingo と PolyLingo の機能比較
             </caption>
             <thead>
               <tr className="border-b-2 border-border">
-                <th className="pb-4 pr-4 text-sm font-semibold text-text-muted" scope="col">
+                <th
+                  className="pb-4 pr-4 text-sm font-semibold text-text-muted"
+                  scope="col"
+                >
                   項目
                 </th>
-                <th className="pb-4 px-4 text-sm font-semibold text-text-muted" scope="col">
+                <th
+                  className="pb-4 px-4 text-sm font-semibold text-text-muted"
+                  scope="col"
+                >
                   Duolingo
                 </th>
-                <th className="pb-4 pl-4 text-sm font-semibold text-navy" scope="col">
+                <th
+                  className="pb-4 pl-4 text-sm font-semibold text-navy"
+                  scope="col"
+                >
                   PolyLingo
                 </th>
               </tr>
