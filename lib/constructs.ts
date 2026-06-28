@@ -93,3 +93,44 @@ export function getAllDemoConstructs(patterns: string[]): DemoConstructData[] {
     .map((pattern) => getDemoConstructData(pattern))
     .filter((item): item is DemoConstructData => item !== null);
 }
+
+export function getConstructById(id: number): Construct | undefined {
+  return data.constructs.find((c) => c.id === id);
+}
+
+export function getConstructsForMonth(month: number): Construct[] {
+  return data.constructs
+    .filter((c) => c.month === month)
+    .sort((a, b) => a.id - b.id);
+}
+
+export function getSentencesForConstruct(constructId: number): Sentence[] {
+  return data.sentences_month1
+    .filter((s) => s.construct_id === constructId)
+    .sort((a, b) => a.variation - b.variation);
+}
+
+export function getSentence(
+  constructId: number,
+  variation: number,
+): Sentence | undefined {
+  return data.sentences_month1.find(
+    (s) => s.construct_id === constructId && s.variation === variation,
+  );
+}
+
+export function getNextMonth1ConstructId(introduced: number[]): number | null {
+  const month1 = getConstructsForMonth(1);
+  const next = month1.find((c) => !introduced.includes(c.id));
+  return next?.id ?? null;
+}
+
+export function getTranslation(
+  sentence: Sentence | undefined,
+  construct: Construct,
+  code: LanguageCode,
+): string {
+  if (sentence?.translations[code]) return sentence.translations[code];
+  if (code === 'en') return construct.example_en;
+  return '';
+}

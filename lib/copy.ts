@@ -382,6 +382,7 @@ export const pages: Record<'ja', PageCopy> = {
       tagline: '30構文 × 8言語 — ポリグロットのための言語学習',
       copyright: '© 2026 PolyLingo. All rights reserved.',
       links: [
+        { label: '学習を始める', href: '/learn' },
         { label: 'プライバシーポリシー', href: '/privacy' },
         { label: '利用規約', href: '/terms' },
         { label: 'お問い合わせ', href: 'mailto:hello@polylingo.app' },
