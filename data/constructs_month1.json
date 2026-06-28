@@ -1,0 +1,4003 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-04-25",
+  "constructs_count": 90,
+  "sentences_count": 150,
+  "month1_complete": true,
+  "month2_complete": false,
+  "month3_complete": false,
+  "constructs": [
+    {
+      "id": 1,
+      "pattern_ja": "これは〜です",
+      "pattern_en": "This is ~",
+      "example_ja": "これは本です",
+      "example_en": "This is a book",
+      "month": 1,
+      "week": 1,
+      "category": "存在・同定",
+      "cefr": "A1"
+    },
+    {
+      "id": 2,
+      "pattern_ja": "私は〜です",
+      "pattern_en": "I am ~",
+      "example_ja": "私は学生です",
+      "example_en": "I am a student",
+      "month": 1,
+      "week": 1,
+      "category": "存在・同定",
+      "cefr": "A1"
+    },
+    {
+      "id": 3,
+      "pattern_ja": "〜ではありません",
+      "pattern_en": "~ is not ~",
+      "example_ja": "彼は医者ではない",
+      "example_en": "He is not a doctor",
+      "month": 1,
+      "week": 1,
+      "category": "存在・同定",
+      "cefr": "A1"
+    },
+    {
+      "id": 4,
+      "pattern_ja": "これは〜ですか?",
+      "pattern_en": "Is this ~?",
+      "example_ja": "これは本ですか?",
+      "example_en": "Is this a book?",
+      "month": 1,
+      "week": 1,
+      "category": "存在・同定",
+      "cefr": "A1"
+    },
+    {
+      "id": 5,
+      "pattern_ja": "〜があります/います",
+      "pattern_en": "There is ~",
+      "example_ja": "机の上に本があります",
+      "example_en": "There is a book on the desk",
+      "month": 1,
+      "week": 1,
+      "category": "存在・同定",
+      "cefr": "A1"
+    },
+    {
+      "id": 6,
+      "pattern_ja": "〜はどこですか?",
+      "pattern_en": "Where is ~?",
+      "example_ja": "駅はどこですか?",
+      "example_en": "Where is the station?",
+      "month": 1,
+      "week": 1,
+      "category": "存在・同定",
+      "cefr": "A1"
+    },
+    {
+      "id": 7,
+      "pattern_ja": "これは何ですか?",
+      "pattern_en": "What is this?",
+      "example_ja": "これは何ですか?",
+      "example_en": "What is this?",
+      "month": 1,
+      "week": 1,
+      "category": "存在・同定",
+      "cefr": "A1"
+    },
+    {
+      "id": 8,
+      "pattern_ja": "〜はいくらですか?",
+      "pattern_en": "How much is ~?",
+      "example_ja": "これはいくらですか?",
+      "example_en": "How much is this?",
+      "month": 1,
+      "week": 1,
+      "category": "存在・同定",
+      "cefr": "A1"
+    },
+    {
+      "id": 9,
+      "pattern_ja": "〜を持っています",
+      "pattern_en": "I have ~",
+      "example_ja": "私は車を持っています",
+      "example_en": "I have a car",
+      "month": 1,
+      "week": 2,
+      "category": "所有・欲求",
+      "cefr": "A1"
+    },
+    {
+      "id": 10,
+      "pattern_ja": "〜が欲しい",
+      "pattern_en": "I want ~",
+      "example_ja": "水が欲しい",
+      "example_en": "I want water",
+      "month": 1,
+      "week": 2,
+      "category": "所有・欲求",
+      "cefr": "A1"
+    },
+    {
+      "id": 11,
+      "pattern_ja": "〜をください",
+      "pattern_en": "~ please",
+      "example_ja": "コーヒーをください",
+      "example_en": "Coffee please",
+      "month": 1,
+      "week": 2,
+      "category": "所有・欲求",
+      "cefr": "A1"
+    },
+    {
+      "id": 12,
+      "pattern_ja": "〜が好きです",
+      "pattern_en": "I like ~",
+      "example_ja": "音楽が好きです",
+      "example_en": "I like music",
+      "month": 1,
+      "week": 2,
+      "category": "所有・欲求",
+      "cefr": "A1"
+    },
+    {
+      "id": 13,
+      "pattern_ja": "〜が好きではない",
+      "pattern_en": "I don't like ~",
+      "example_ja": "魚は好きじゃない",
+      "example_en": "I don't like fish",
+      "month": 1,
+      "week": 2,
+      "category": "所有・欲求",
+      "cefr": "A1"
+    },
+    {
+      "id": 14,
+      "pattern_ja": "〜が必要です",
+      "pattern_en": "I need ~",
+      "example_ja": "助けが必要です",
+      "example_en": "I need help",
+      "month": 1,
+      "week": 2,
+      "category": "所有・欲求",
+      "cefr": "A1"
+    },
+    {
+      "id": 15,
+      "pattern_ja": "〜を持っていますか?",
+      "pattern_en": "Do you have ~?",
+      "example_ja": "ペンを持っていますか?",
+      "example_en": "Do you have a pen?",
+      "month": 1,
+      "week": 2,
+      "category": "所有・欲求",
+      "cefr": "A1"
+    },
+    {
+      "id": 16,
+      "pattern_ja": "〜は誰のですか?",
+      "pattern_en": "Whose ~ is it?",
+      "example_ja": "これは誰の鞄ですか?",
+      "example_en": "Whose bag is this?",
+      "month": 1,
+      "week": 2,
+      "category": "所有・欲求",
+      "cefr": "A1"
+    },
+    {
+      "id": 17,
+      "pattern_ja": "私は〜します",
+      "pattern_en": "I do ~",
+      "example_ja": "私は毎日勉強します",
+      "example_en": "I study every day",
+      "month": 1,
+      "week": 3,
+      "category": "基本動作",
+      "cefr": "A1"
+    },
+    {
+      "id": 18,
+      "pattern_ja": "〜に行きます",
+      "pattern_en": "I go to ~",
+      "example_ja": "学校に行きます",
+      "example_en": "I go to school",
+      "month": 1,
+      "week": 3,
+      "category": "基本動作",
+      "cefr": "A1"
+    },
+    {
+      "id": 19,
+      "pattern_ja": "〜を食べます/飲みます",
+      "pattern_en": "I eat/drink ~",
+      "example_ja": "朝ごはんを食べます",
+      "example_en": "I eat breakfast",
+      "month": 1,
+      "week": 3,
+      "category": "基本動作",
+      "cefr": "A1"
+    },
+    {
+      "id": 20,
+      "pattern_ja": "〜に住んでいます",
+      "pattern_en": "I live in ~",
+      "example_ja": "東京に住んでいます",
+      "example_en": "I live in Tokyo",
+      "month": 1,
+      "week": 3,
+      "category": "基本動作",
+      "cefr": "A1"
+    },
+    {
+      "id": 21,
+      "pattern_ja": "〜で働いています",
+      "pattern_en": "I work at ~",
+      "example_ja": "銀行で働いています",
+      "example_en": "I work at a bank",
+      "month": 1,
+      "week": 3,
+      "category": "基本動作",
+      "cefr": "A1"
+    },
+    {
+      "id": 22,
+      "pattern_ja": "〜しません",
+      "pattern_en": "I don't ~",
+      "example_ja": "コーヒーを飲みません",
+      "example_en": "I don't drink coffee",
+      "month": 1,
+      "week": 3,
+      "category": "基本動作",
+      "cefr": "A1"
+    },
+    {
+      "id": 23,
+      "pattern_ja": "〜しますか?",
+      "pattern_en": "Do you ~?",
+      "example_ja": "テニスをしますか?",
+      "example_en": "Do you play tennis?",
+      "month": 1,
+      "week": 3,
+      "category": "基本動作",
+      "cefr": "A1"
+    },
+    {
+      "id": 24,
+      "pattern_ja": "何を〜していますか?",
+      "pattern_en": "What are you doing?",
+      "example_ja": "何を読んでいますか?",
+      "example_en": "What are you reading?",
+      "month": 1,
+      "week": 3,
+      "category": "基本動作",
+      "cefr": "A1"
+    },
+    {
+      "id": 25,
+      "pattern_ja": "〜できます",
+      "pattern_en": "I can ~",
+      "example_ja": "私は泳げます",
+      "example_en": "I can swim",
+      "month": 1,
+      "week": 4,
+      "category": "能力・疑問",
+      "cefr": "A1"
+    },
+    {
+      "id": 26,
+      "pattern_ja": "〜できません",
+      "pattern_en": "I can't ~",
+      "example_ja": "ピアノは弾けません",
+      "example_en": "I can't play piano",
+      "month": 1,
+      "week": 4,
+      "category": "能力・疑問",
+      "cefr": "A1"
+    },
+    {
+      "id": 27,
+      "pattern_ja": "〜できますか?",
+      "pattern_en": "Can you ~?",
+      "example_ja": "日本語を話せますか?",
+      "example_en": "Can you speak Japanese?",
+      "month": 1,
+      "week": 4,
+      "category": "能力・疑問",
+      "cefr": "A1"
+    },
+    {
+      "id": 28,
+      "pattern_ja": "いつ〜?",
+      "pattern_en": "When ~?",
+      "example_ja": "いつ会えますか?",
+      "example_en": "When can we meet?",
+      "month": 1,
+      "week": 4,
+      "category": "能力・疑問",
+      "cefr": "A1"
+    },
+    {
+      "id": 29,
+      "pattern_ja": "なぜ〜?",
+      "pattern_en": "Why ~?",
+      "example_ja": "なぜ遅れたの?",
+      "example_en": "Why are you late?",
+      "month": 1,
+      "week": 4,
+      "category": "能力・疑問",
+      "cefr": "A1"
+    },
+    {
+      "id": 30,
+      "pattern_ja": "誰が〜?",
+      "pattern_en": "Who ~?",
+      "example_ja": "誰が来ますか?",
+      "example_en": "Who is coming?",
+      "month": 1,
+      "week": 4,
+      "category": "能力・疑問",
+      "cefr": "A1"
+    },
+    {
+      "id": 31,
+      "pattern_ja": "〜しました",
+      "pattern_en": "I did ~",
+      "example_ja": "昨日映画を見ました",
+      "example_en": "I watched a movie yesterday",
+      "month": 2,
+      "week": 5,
+      "category": "過去形",
+      "cefr": "A2"
+    },
+    {
+      "id": 32,
+      "pattern_ja": "〜に行きました",
+      "pattern_en": "I went to ~",
+      "example_ja": "京都に行きました",
+      "example_en": "I went to Kyoto",
+      "month": 2,
+      "week": 5,
+      "category": "過去形",
+      "cefr": "A2"
+    },
+    {
+      "id": 33,
+      "pattern_ja": "〜を見た/会った",
+      "pattern_en": "I saw/met ~",
+      "example_ja": "彼女に会いました",
+      "example_en": "I met her",
+      "month": 2,
+      "week": 5,
+      "category": "過去形",
+      "cefr": "A2"
+    },
+    {
+      "id": 34,
+      "pattern_ja": "〜しませんでした",
+      "pattern_en": "I didn't ~",
+      "example_ja": "朝食を食べませんでした",
+      "example_en": "I didn't eat breakfast",
+      "month": 2,
+      "week": 5,
+      "category": "過去形",
+      "cefr": "A2"
+    },
+    {
+      "id": 35,
+      "pattern_ja": "〜でした",
+      "pattern_en": "I was ~",
+      "example_ja": "昨日は忙しかった",
+      "example_en": "I was busy yesterday",
+      "month": 2,
+      "week": 5,
+      "category": "過去形",
+      "cefr": "A2"
+    },
+    {
+      "id": 36,
+      "pattern_ja": "〜がありました",
+      "pattern_en": "There was ~",
+      "example_ja": "事故がありました",
+      "example_en": "There was an accident",
+      "month": 2,
+      "week": 5,
+      "category": "過去形",
+      "cefr": "A2"
+    },
+    {
+      "id": 37,
+      "pattern_ja": "〜したことがある",
+      "pattern_en": "I have done ~",
+      "example_ja": "パリに行ったことがある",
+      "example_en": "I've been to Paris",
+      "month": 2,
+      "week": 5,
+      "category": "過去形",
+      "cefr": "A2"
+    },
+    {
+      "id": 38,
+      "pattern_ja": "〜したばかり",
+      "pattern_en": "I just did ~",
+      "example_ja": "ちょうど食べたばかり",
+      "example_en": "I just ate",
+      "month": 2,
+      "week": 5,
+      "category": "過去形",
+      "cefr": "A2"
+    },
+    {
+      "id": 39,
+      "pattern_ja": "〜するつもりです",
+      "pattern_en": "I'm going to ~",
+      "example_ja": "明日行くつもりです",
+      "example_en": "I'm going to go tomorrow",
+      "month": 2,
+      "week": 6,
+      "category": "未来・意志",
+      "cefr": "A2"
+    },
+    {
+      "id": 40,
+      "pattern_ja": "〜します(意志)",
+      "pattern_en": "I will ~",
+      "example_ja": "手伝います",
+      "example_en": "I will help you",
+      "month": 2,
+      "week": 6,
+      "category": "未来・意志",
+      "cefr": "A2"
+    },
+    {
+      "id": 41,
+      "pattern_ja": "〜したいです",
+      "pattern_en": "I'd like to ~",
+      "example_ja": "ピザが食べたい",
+      "example_en": "I'd like pizza",
+      "month": 2,
+      "week": 6,
+      "category": "未来・意志",
+      "cefr": "A2"
+    },
+    {
+      "id": 42,
+      "pattern_ja": "〜する予定です",
+      "pattern_en": "I plan to ~",
+      "example_ja": "来週帰る予定です",
+      "example_en": "I plan to return next week",
+      "month": 2,
+      "week": 6,
+      "category": "未来・意志",
+      "cefr": "A2"
+    },
+    {
+      "id": 43,
+      "pattern_ja": "〜する必要がある",
+      "pattern_en": "I need to ~",
+      "example_ja": "電話する必要がある",
+      "example_en": "I need to call",
+      "month": 2,
+      "week": 6,
+      "category": "未来・意志",
+      "cefr": "A2"
+    },
+    {
+      "id": 44,
+      "pattern_ja": "〜しなければならない",
+      "pattern_en": "I have to ~",
+      "example_ja": "宿題をしなければならない",
+      "example_en": "I have to do homework",
+      "month": 2,
+      "week": 6,
+      "category": "未来・意志",
+      "cefr": "A2"
+    },
+    {
+      "id": 45,
+      "pattern_ja": "〜してもいいですか?",
+      "pattern_en": "May I ~?",
+      "example_ja": "入ってもいいですか?",
+      "example_en": "May I come in?",
+      "month": 2,
+      "week": 6,
+      "category": "未来・意志",
+      "cefr": "A2"
+    },
+    {
+      "id": 46,
+      "pattern_ja": "〜しないでください",
+      "pattern_en": "Please don't ~",
+      "example_ja": "話さないでください",
+      "example_en": "Please don't talk",
+      "month": 2,
+      "week": 6,
+      "category": "未来・意志",
+      "cefr": "A2"
+    },
+    {
+      "id": 47,
+      "pattern_ja": "いつも〜",
+      "pattern_en": "always ~",
+      "example_ja": "いつも7時に起きます",
+      "example_en": "I always wake up at 7",
+      "month": 2,
+      "week": 7,
+      "category": "頻度・時間",
+      "cefr": "A2"
+    },
+    {
+      "id": 48,
+      "pattern_ja": "よく〜",
+      "pattern_en": "often ~",
+      "example_ja": "よく映画を見ます",
+      "example_en": "I often watch movies",
+      "month": 2,
+      "week": 7,
+      "category": "頻度・時間",
+      "cefr": "A2"
+    },
+    {
+      "id": 49,
+      "pattern_ja": "時々〜",
+      "pattern_en": "sometimes ~",
+      "example_ja": "時々料理します",
+      "example_en": "I sometimes cook",
+      "month": 2,
+      "week": 7,
+      "category": "頻度・時間",
+      "cefr": "A2"
+    },
+    {
+      "id": 50,
+      "pattern_ja": "決して〜ない",
+      "pattern_en": "never ~",
+      "example_ja": "決して嘘をつかない",
+      "example_en": "I never lie",
+      "month": 2,
+      "week": 7,
+      "category": "頻度・時間",
+      "cefr": "A2"
+    },
+    {
+      "id": 51,
+      "pattern_ja": "毎日〜",
+      "pattern_en": "every day ~",
+      "example_ja": "毎日走ります",
+      "example_en": "I run every day",
+      "month": 2,
+      "week": 7,
+      "category": "頻度・時間",
+      "cefr": "A2"
+    },
+    {
+      "id": 52,
+      "pattern_ja": "〜の時",
+      "pattern_en": "when ~",
+      "example_ja": "子供の時、北海道に住んでいた",
+      "example_en": "When I was a child, I lived in Hokkaido",
+      "month": 2,
+      "week": 7,
+      "category": "頻度・時間",
+      "cefr": "A2"
+    },
+    {
+      "id": 53,
+      "pattern_ja": "〜の前に",
+      "pattern_en": "before ~",
+      "example_ja": "食事の前に手を洗う",
+      "example_en": "I wash my hands before eating",
+      "month": 2,
+      "week": 7,
+      "category": "頻度・時間",
+      "cefr": "A2"
+    },
+    {
+      "id": 54,
+      "pattern_ja": "〜の後に",
+      "pattern_en": "after ~",
+      "example_ja": "仕事の後にジムに行く",
+      "example_en": "I go to the gym after work",
+      "month": 2,
+      "week": 7,
+      "category": "頻度・時間",
+      "cefr": "A2"
+    },
+    {
+      "id": 55,
+      "pattern_ja": "〜より〜です",
+      "pattern_en": "~ is ~er than ~",
+      "example_ja": "東京は大阪より大きい",
+      "example_en": "Tokyo is bigger than Osaka",
+      "month": 2,
+      "week": 8,
+      "category": "比較・評価",
+      "cefr": "A2"
+    },
+    {
+      "id": 56,
+      "pattern_ja": "〜と同じくらい",
+      "pattern_en": "as ~ as",
+      "example_ja": "彼女は私と同じくらい背が高い",
+      "example_en": "She is as tall as me",
+      "month": 2,
+      "week": 8,
+      "category": "比較・評価",
+      "cefr": "A2"
+    },
+    {
+      "id": 57,
+      "pattern_ja": "一番〜",
+      "pattern_en": "the most ~",
+      "example_ja": "彼が一番速い",
+      "example_en": "He is the fastest",
+      "month": 2,
+      "week": 8,
+      "category": "比較・評価",
+      "cefr": "A2"
+    },
+    {
+      "id": 58,
+      "pattern_ja": "〜すぎる",
+      "pattern_en": "too ~",
+      "example_ja": "高すぎます",
+      "example_en": "It's too expensive",
+      "month": 2,
+      "week": 8,
+      "category": "比較・評価",
+      "cefr": "A2"
+    },
+    {
+      "id": 59,
+      "pattern_ja": "十分〜",
+      "pattern_en": "enough ~",
+      "example_ja": "十分暖かい",
+      "example_en": "It's warm enough",
+      "month": 2,
+      "week": 8,
+      "category": "比較・評価",
+      "cefr": "A2"
+    },
+    {
+      "id": 60,
+      "pattern_ja": "〜のほうがいい",
+      "pattern_en": "~ is better",
+      "example_ja": "コーヒーのほうがいい",
+      "example_en": "Coffee is better",
+      "month": 2,
+      "week": 8,
+      "category": "比較・評価",
+      "cefr": "A2"
+    },
+    {
+      "id": 61,
+      "pattern_ja": "〜と思います",
+      "pattern_en": "I think that ~",
+      "example_ja": "彼は正しいと思う",
+      "example_en": "I think he is right",
+      "month": 3,
+      "week": 9,
+      "category": "意見・感情",
+      "cefr": "B1"
+    },
+    {
+      "id": 62,
+      "pattern_ja": "〜と信じている",
+      "pattern_en": "I believe ~",
+      "example_ja": "彼を信じている",
+      "example_en": "I believe in him",
+      "month": 3,
+      "week": 9,
+      "category": "意見・感情",
+      "cefr": "B1"
+    },
+    {
+      "id": 63,
+      "pattern_ja": "〜が心配だ",
+      "pattern_en": "I'm worried about ~",
+      "example_ja": "母のことが心配",
+      "example_en": "I'm worried about my mother",
+      "month": 3,
+      "week": 9,
+      "category": "意見・感情",
+      "cefr": "B1"
+    },
+    {
+      "id": 64,
+      "pattern_ja": "〜に興味がある",
+      "pattern_en": "I'm interested in ~",
+      "example_ja": "歴史に興味がある",
+      "example_en": "I'm interested in history",
+      "month": 3,
+      "week": 9,
+      "category": "意見・感情",
+      "cefr": "B1"
+    },
+    {
+      "id": 65,
+      "pattern_ja": "〜してうれしい",
+      "pattern_en": "I'm happy that ~",
+      "example_ja": "会えてうれしい",
+      "example_en": "I'm happy to see you",
+      "month": 3,
+      "week": 9,
+      "category": "意見・感情",
+      "cefr": "B1"
+    },
+    {
+      "id": 66,
+      "pattern_ja": "〜が怖い",
+      "pattern_en": "I'm afraid of ~",
+      "example_ja": "犬が怖い",
+      "example_en": "I'm afraid of dogs",
+      "month": 3,
+      "week": 9,
+      "category": "意見・感情",
+      "cefr": "B1"
+    },
+    {
+      "id": 67,
+      "pattern_ja": "〜にうんざり",
+      "pattern_en": "I'm tired of ~",
+      "example_ja": "雨にうんざりだ",
+      "example_en": "I'm tired of the rain",
+      "month": 3,
+      "week": 9,
+      "category": "意見・感情",
+      "cefr": "B1"
+    },
+    {
+      "id": 68,
+      "pattern_ja": "〜は素晴らしい",
+      "pattern_en": "~ is wonderful",
+      "example_ja": "君のアイデアは素晴らしい",
+      "example_en": "Your idea is wonderful",
+      "month": 3,
+      "week": 9,
+      "category": "意見・感情",
+      "cefr": "B1"
+    },
+    {
+      "id": 69,
+      "pattern_ja": "もし〜なら",
+      "pattern_en": "if ~",
+      "example_ja": "もし時間があれば来ます",
+      "example_en": "If I have time, I'll come",
+      "month": 3,
+      "week": 10,
+      "category": "仮定・条件",
+      "cefr": "B1"
+    },
+    {
+      "id": 70,
+      "pattern_ja": "もし〜だったら",
+      "pattern_en": "if I were ~",
+      "example_ja": "もし君が私なら",
+      "example_en": "If you were me",
+      "month": 3,
+      "week": 10,
+      "category": "仮定・条件",
+      "cefr": "B1"
+    },
+    {
+      "id": 71,
+      "pattern_ja": "もし〜していたら",
+      "pattern_en": "if I had ~",
+      "example_ja": "もし知っていたら来た",
+      "example_en": "If I had known, I would have come",
+      "month": 3,
+      "week": 10,
+      "category": "仮定・条件",
+      "cefr": "B1"
+    },
+    {
+      "id": 72,
+      "pattern_ja": "〜がなければ",
+      "pattern_en": "without ~",
+      "example_ja": "君がいなければ無理だ",
+      "example_en": "Without you, it's impossible",
+      "month": 3,
+      "week": 10,
+      "category": "仮定・条件",
+      "cefr": "B1"
+    },
+    {
+      "id": 73,
+      "pattern_ja": "〜であっても",
+      "pattern_en": "even if ~",
+      "example_ja": "雨でも行く",
+      "example_en": "Even if it rains, I'll go",
+      "month": 3,
+      "week": 10,
+      "category": "仮定・条件",
+      "cefr": "B1"
+    },
+    {
+      "id": 74,
+      "pattern_ja": "〜すればするほど",
+      "pattern_en": "the more ~",
+      "example_ja": "学べば学ぶほど面白い",
+      "example_en": "The more I learn, the more fun",
+      "month": 3,
+      "week": 10,
+      "category": "仮定・条件",
+      "cefr": "B1"
+    },
+    {
+      "id": 75,
+      "pattern_ja": "〜だったらいいのに",
+      "pattern_en": "I wish ~",
+      "example_ja": "君がいたらいいのに",
+      "example_en": "I wish you were here",
+      "month": 3,
+      "week": 10,
+      "category": "仮定・条件",
+      "cefr": "B1"
+    },
+    {
+      "id": 76,
+      "pattern_ja": "〜であってほしい",
+      "pattern_en": "I hope ~",
+      "example_ja": "うまくいくといいな",
+      "example_en": "I hope it goes well",
+      "month": 3,
+      "week": 10,
+      "category": "仮定・条件",
+      "cefr": "B1"
+    },
+    {
+      "id": 77,
+      "pattern_ja": "〜という人/もの",
+      "pattern_en": "the one who/that ~",
+      "example_ja": "昨日会った人",
+      "example_en": "The person I met yesterday",
+      "month": 3,
+      "week": 11,
+      "category": "接続・関係",
+      "cefr": "B1"
+    },
+    {
+      "id": 78,
+      "pattern_ja": "〜の場所",
+      "pattern_en": "the place where ~",
+      "example_ja": "私が育った場所",
+      "example_en": "The place where I grew up",
+      "month": 3,
+      "week": 11,
+      "category": "接続・関係",
+      "cefr": "B1"
+    },
+    {
+      "id": 79,
+      "pattern_ja": "〜だから",
+      "pattern_en": "because ~",
+      "example_ja": "雨だから行かない",
+      "example_en": "I'm not going because of the rain",
+      "month": 3,
+      "week": 11,
+      "category": "接続・関係",
+      "cefr": "B1"
+    },
+    {
+      "id": 80,
+      "pattern_ja": "〜するために",
+      "pattern_en": "in order to ~",
+      "example_ja": "勉強するために来た",
+      "example_en": "I came to study",
+      "month": 3,
+      "week": 11,
+      "category": "接続・関係",
+      "cefr": "B1"
+    },
+    {
+      "id": 81,
+      "pattern_ja": "〜している間",
+      "pattern_en": "while ~",
+      "example_ja": "食事中に電話が鳴った",
+      "example_en": "The phone rang while I was eating",
+      "month": 3,
+      "week": 11,
+      "category": "接続・関係",
+      "cefr": "B1"
+    },
+    {
+      "id": 82,
+      "pattern_ja": "〜したら",
+      "pattern_en": "when/after ~",
+      "example_ja": "着いたら連絡して",
+      "example_en": "Let me know when you arrive",
+      "month": 3,
+      "week": 11,
+      "category": "接続・関係",
+      "cefr": "B1"
+    },
+    {
+      "id": 83,
+      "pattern_ja": "〜のように",
+      "pattern_en": "like ~",
+      "example_ja": "君のように頑張りたい",
+      "example_en": "I want to work hard like you",
+      "month": 3,
+      "week": 11,
+      "category": "接続・関係",
+      "cefr": "B1"
+    },
+    {
+      "id": 84,
+      "pattern_ja": "〜のかわりに",
+      "pattern_en": "instead of ~",
+      "example_ja": "コーヒーのかわりに紅茶",
+      "example_en": "Tea instead of coffee",
+      "month": 3,
+      "week": 11,
+      "category": "接続・関係",
+      "cefr": "B1"
+    },
+    {
+      "id": 85,
+      "pattern_ja": "〜と言いました",
+      "pattern_en": "He/she said ~",
+      "example_ja": "彼は来ると言った",
+      "example_en": "He said he would come",
+      "month": 3,
+      "week": 12,
+      "category": "対話技法",
+      "cefr": "B1"
+    },
+    {
+      "id": 86,
+      "pattern_ja": "〜かどうか",
+      "pattern_en": "whether ~",
+      "example_ja": "来るかどうか分からない",
+      "example_en": "I don't know whether he'll come",
+      "month": 3,
+      "week": 12,
+      "category": "対話技法",
+      "cefr": "B1"
+    },
+    {
+      "id": 87,
+      "pattern_ja": "〜したほうがいい",
+      "pattern_en": "you'd better ~",
+      "example_ja": "休んだほうがいい",
+      "example_en": "You'd better rest",
+      "month": 3,
+      "week": 12,
+      "category": "対話技法",
+      "cefr": "B1"
+    },
+    {
+      "id": 88,
+      "pattern_ja": "〜しませんか?",
+      "pattern_en": "Why don't we ~?",
+      "example_ja": "一緒に行きませんか?",
+      "example_en": "Why don't we go together?",
+      "month": 3,
+      "week": 12,
+      "category": "対話技法",
+      "cefr": "B1"
+    },
+    {
+      "id": 89,
+      "pattern_ja": "〜していただけますか?",
+      "pattern_en": "Could you please ~?",
+      "example_ja": "手伝っていただけますか?",
+      "example_en": "Could you help me?",
+      "month": 3,
+      "week": 12,
+      "category": "対話技法",
+      "cefr": "B1"
+    },
+    {
+      "id": 90,
+      "pattern_ja": "〜と聞きました",
+      "pattern_en": "I heard ~",
+      "example_ja": "結婚すると聞きました",
+      "example_en": "I heard you're getting married",
+      "month": 3,
+      "week": 12,
+      "category": "対話技法",
+      "cefr": "B1"
+    }
+  ],
+  "sentences_month1": [
+    {
+      "id": "m1-001-1",
+      "construct_id": 1,
+      "variation": 1,
+      "translations": {
+        "ja": "これは本です",
+        "en": "This is a book",
+        "de": "Das ist ein Buch",
+        "zh": "这是一本书",
+        "ko": "이것은 책입니다",
+        "es": "Esto es un libro",
+        "pt": "Isto é um livro",
+        "it": "Questo è un libro",
+        "fr": "C'est un livre"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì yī běn shū",
+        "ko": "Igeoseun chaegimnida"
+      }
+    },
+    {
+      "id": "m1-001-2",
+      "construct_id": 1,
+      "variation": 2,
+      "translations": {
+        "ja": "これは私の家です",
+        "en": "This is my house",
+        "de": "Das ist mein Haus",
+        "zh": "这是我的家",
+        "ko": "이것은 우리 집입니다",
+        "es": "Esta es mi casa",
+        "pt": "Esta é a minha casa",
+        "it": "Questa è la mia casa",
+        "fr": "C'est ma maison"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì wǒ de jiā",
+        "ko": "Igeoseun uri jibimnida"
+      }
+    },
+    {
+      "id": "m1-001-3",
+      "construct_id": 1,
+      "variation": 3,
+      "translations": {
+        "ja": "これは新しい服です",
+        "en": "These are new clothes",
+        "de": "Das ist neue Kleidung",
+        "zh": "这是新衣服",
+        "ko": "이것은 새 옷입니다",
+        "es": "Esta es ropa nueva",
+        "pt": "Esta é uma roupa nova",
+        "it": "Questi sono vestiti nuovi",
+        "fr": "Ce sont des vêtements neufs"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì xīn yīfu",
+        "ko": "Igeoseun sae osimnida"
+      }
+    },
+    {
+      "id": "m1-001-4",
+      "construct_id": 1,
+      "variation": 4,
+      "translations": {
+        "ja": "これは父の写真です",
+        "en": "This is a photo of my father",
+        "de": "Das ist ein Foto von meinem Vater",
+        "zh": "这是我父亲的照片",
+        "ko": "이것은 아버지 사진입니다",
+        "es": "Esta es la foto de mi padre",
+        "pt": "Esta é a foto do meu pai",
+        "it": "Questa è la foto di mio padre",
+        "fr": "C'est la photo de mon père"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì wǒ fùqīn de zhàopiàn",
+        "ko": "Igeoseun abeoji sajinimnida"
+      }
+    },
+    {
+      "id": "m1-001-5",
+      "construct_id": 1,
+      "variation": 5,
+      "translations": {
+        "ja": "これは大切な物です",
+        "en": "This is something important",
+        "de": "Das ist etwas Wichtiges",
+        "zh": "这是重要的东西",
+        "ko": "이것은 중요한 것입니다",
+        "es": "Esto es algo importante",
+        "pt": "Isto é algo importante",
+        "it": "Questa è una cosa importante",
+        "fr": "C'est quelque chose d'important"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì zhòngyào de dōngxī",
+        "ko": "Igeoseun jungyohan geosimnida"
+      }
+    },
+    {
+      "id": "m1-002-1",
+      "construct_id": 2,
+      "variation": 1,
+      "translations": {
+        "ja": "私は学生です",
+        "en": "I am a student",
+        "de": "Ich bin Student",
+        "zh": "我是学生",
+        "ko": "저는 학생입니다",
+        "es": "Soy estudiante",
+        "pt": "Sou estudante",
+        "it": "Sono uno studente",
+        "fr": "Je suis étudiant"
+      },
+      "pronunciation": {
+        "zh": "Wǒ shì xuéshēng",
+        "ko": "Jeoneun haksaengimnida"
+      }
+    },
+    {
+      "id": "m1-002-2",
+      "construct_id": 2,
+      "variation": 2,
+      "translations": {
+        "ja": "私は日本人です",
+        "en": "I am Japanese",
+        "de": "Ich bin Japaner",
+        "zh": "我是日本人",
+        "ko": "저는 일본 사람입니다",
+        "es": "Soy japonés",
+        "pt": "Sou japonês",
+        "it": "Sono giapponese",
+        "fr": "Je suis japonais"
+      },
+      "pronunciation": {
+        "zh": "Wǒ shì rìběn rén",
+        "ko": "Jeoneun ilbon saramimnida"
+      }
+    },
+    {
+      "id": "m1-002-3",
+      "construct_id": 2,
+      "variation": 3,
+      "translations": {
+        "ja": "私は医者です",
+        "en": "I am a doctor",
+        "de": "Ich bin Arzt",
+        "zh": "我是医生",
+        "ko": "저는 의사입니다",
+        "es": "Soy médico",
+        "pt": "Sou médico",
+        "it": "Sono medico",
+        "fr": "Je suis médecin"
+      },
+      "pronunciation": {
+        "zh": "Wǒ shì yīshēng",
+        "ko": "Jeoneun uisaimnida"
+      }
+    },
+    {
+      "id": "m1-002-4",
+      "construct_id": 2,
+      "variation": 4,
+      "translations": {
+        "ja": "私は元気です",
+        "en": "I am fine",
+        "de": "Mir geht es gut",
+        "zh": "我很好",
+        "ko": "저는 잘 지냅니다",
+        "es": "Estoy bien",
+        "pt": "Estou bem",
+        "it": "Sto bene",
+        "fr": "Je vais bien"
+      },
+      "pronunciation": {
+        "zh": "Wǒ hěn hǎo",
+        "ko": "Jeoneun jal jinaemnida"
+      }
+    },
+    {
+      "id": "m1-002-5",
+      "construct_id": 2,
+      "variation": 5,
+      "translations": {
+        "ja": "私は田中です",
+        "en": "I am Tanaka",
+        "de": "Ich bin Tanaka",
+        "zh": "我是田中",
+        "ko": "저는 다나카입니다",
+        "es": "Soy Tanaka",
+        "pt": "Sou Tanaka",
+        "it": "Sono Tanaka",
+        "fr": "Je suis Tanaka"
+      },
+      "pronunciation": {
+        "zh": "Wǒ shì Tiánzhōng",
+        "ko": "Jeoneun Danakaimnida"
+      }
+    },
+    {
+      "id": "m1-003-1",
+      "construct_id": 3,
+      "variation": 1,
+      "translations": {
+        "ja": "これはペンではありません",
+        "en": "This is not a pen",
+        "de": "Das ist kein Stift",
+        "zh": "这不是笔",
+        "ko": "이것은 펜이 아닙니다",
+        "es": "Esto no es un bolígrafo",
+        "pt": "Isto não é uma caneta",
+        "it": "Questa non è una penna",
+        "fr": "Ce n'est pas un stylo"
+      },
+      "pronunciation": {
+        "zh": "Zhè bù shì bǐ",
+        "ko": "Igeoseun peni animnida"
+      }
+    },
+    {
+      "id": "m1-003-2",
+      "construct_id": 3,
+      "variation": 2,
+      "translations": {
+        "ja": "私は学生ではありません",
+        "en": "I am not a student",
+        "de": "Ich bin kein Student",
+        "zh": "我不是学生",
+        "ko": "저는 학생이 아닙니다",
+        "es": "No soy estudiante",
+        "pt": "Não sou estudante",
+        "it": "Non sono uno studente",
+        "fr": "Je ne suis pas étudiant"
+      },
+      "pronunciation": {
+        "zh": "Wǒ bù shì xuéshēng",
+        "ko": "Jeoneun haksaengi animnida"
+      }
+    },
+    {
+      "id": "m1-003-3",
+      "construct_id": 3,
+      "variation": 3,
+      "translations": {
+        "ja": "彼は日本人ではありません",
+        "en": "He is not Japanese",
+        "de": "Er ist kein Japaner",
+        "zh": "他不是日本人",
+        "ko": "그는 일본 사람이 아닙니다",
+        "es": "Él no es japonés",
+        "pt": "Ele não é japonês",
+        "it": "Lui non è giapponese",
+        "fr": "Il n'est pas japonais"
+      },
+      "pronunciation": {
+        "zh": "Tā bù shì rìběn rén",
+        "ko": "Geuneun ilbon sarami animnida"
+      }
+    },
+    {
+      "id": "m1-003-4",
+      "construct_id": 3,
+      "variation": 4,
+      "translations": {
+        "ja": "これは私の物ではありません",
+        "en": "This is not mine",
+        "de": "Das gehört mir nicht",
+        "zh": "这不是我的",
+        "ko": "이것은 제 것이 아닙니다",
+        "es": "Esto no es mío",
+        "pt": "Isto não é meu",
+        "it": "Questa non è mia",
+        "fr": "Ce n'est pas à moi"
+      },
+      "pronunciation": {
+        "zh": "Zhè bù shì wǒ de",
+        "ko": "Igeoseun je geosi animnida"
+      }
+    },
+    {
+      "id": "m1-003-5",
+      "construct_id": 3,
+      "variation": 5,
+      "translations": {
+        "ja": "ここは駅ではありません",
+        "en": "This is not a station",
+        "de": "Das ist kein Bahnhof",
+        "zh": "这里不是车站",
+        "ko": "여기는 역이 아닙니다",
+        "es": "Esto no es una estación",
+        "pt": "Isto não é uma estação",
+        "it": "Questa non è una stazione",
+        "fr": "Ce n'est pas une gare"
+      },
+      "pronunciation": {
+        "zh": "Zhèlǐ bù shì chēzhàn",
+        "ko": "Yeogineun yeogi animnida"
+      }
+    },
+    {
+      "id": "m1-004-1",
+      "construct_id": 4,
+      "variation": 1,
+      "translations": {
+        "ja": "これは本ですか?",
+        "en": "Is this a book?",
+        "de": "Ist das ein Buch?",
+        "zh": "这是书吗?",
+        "ko": "이것은 책입니까?",
+        "es": "¿Es esto un libro?",
+        "pt": "Isto é um livro?",
+        "it": "Questo è un libro?",
+        "fr": "Est-ce un livre?"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì shū ma?",
+        "ko": "Igeoseun chaegimnikka?"
+      }
+    },
+    {
+      "id": "m1-004-2",
+      "construct_id": 4,
+      "variation": 2,
+      "translations": {
+        "ja": "これはあなたの鞄ですか?",
+        "en": "Is this your bag?",
+        "de": "Ist das deine Tasche?",
+        "zh": "这是你的包吗?",
+        "ko": "이것은 당신의 가방입니까?",
+        "es": "¿Es esta tu bolsa?",
+        "pt": "Esta é a sua bolsa?",
+        "it": "Questa è la tua borsa?",
+        "fr": "C'est ton sac?"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì nǐ de bāo ma?",
+        "ko": "Igeoseun dangsinui gabangimnikka?"
+      }
+    },
+    {
+      "id": "m1-004-3",
+      "construct_id": 4,
+      "variation": 3,
+      "translations": {
+        "ja": "これはコーヒーですか?",
+        "en": "Is this coffee?",
+        "de": "Ist das Kaffee?",
+        "zh": "这是咖啡吗?",
+        "ko": "이것은 커피입니까?",
+        "es": "¿Es esto café?",
+        "pt": "Isto é café?",
+        "it": "Questo è caffè?",
+        "fr": "Est-ce du café?"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì kāfēi ma?",
+        "ko": "Igeoseun keopiimnikka?"
+      }
+    },
+    {
+      "id": "m1-004-4",
+      "construct_id": 4,
+      "variation": 4,
+      "translations": {
+        "ja": "これは無料ですか?",
+        "en": "Is this free?",
+        "de": "Ist das kostenlos?",
+        "zh": "这是免费的吗?",
+        "ko": "이것은 무료입니까?",
+        "es": "¿Es esto gratis?",
+        "pt": "Isto é grátis?",
+        "it": "Questo è gratis?",
+        "fr": "Est-ce gratuit?"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì miǎnfèi de ma?",
+        "ko": "Igeoseun muryoimnikka?"
+      }
+    },
+    {
+      "id": "m1-004-5",
+      "construct_id": 4,
+      "variation": 5,
+      "translations": {
+        "ja": "これは新しいですか?",
+        "en": "Is this new?",
+        "de": "Ist das neu?",
+        "zh": "这是新的吗?",
+        "ko": "이것은 새것입니까?",
+        "es": "¿Es esto nuevo?",
+        "pt": "Isto é novo?",
+        "it": "Questo è nuovo?",
+        "fr": "Est-ce nouveau?"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì xīn de ma?",
+        "ko": "Igeoseun saegeosimnikka?"
+      }
+    },
+    {
+      "id": "m1-005-1",
+      "construct_id": 5,
+      "variation": 1,
+      "translations": {
+        "ja": "公園に犬がいます",
+        "en": "There is a dog in the park",
+        "de": "Im Park ist ein Hund",
+        "zh": "公园里有狗",
+        "ko": "공원에 개가 있습니다",
+        "es": "Hay un perro en el parque",
+        "pt": "Há um cachorro no parque",
+        "it": "C'è un cane nel parco",
+        "fr": "Il y a un chien dans le parc"
+      },
+      "pronunciation": {
+        "zh": "Gōngyuán lǐ yǒu gǒu",
+        "ko": "Gongwone gaega itseumnida"
+      }
+    },
+    {
+      "id": "m1-005-2",
+      "construct_id": 5,
+      "variation": 2,
+      "translations": {
+        "ja": "テーブルの上に本があります",
+        "en": "There is a book on the table",
+        "de": "Auf dem Tisch liegt ein Buch",
+        "zh": "桌子上有书",
+        "ko": "테이블 위에 책이 있습니다",
+        "es": "Hay un libro sobre la mesa",
+        "pt": "Há um livro sobre a mesa",
+        "it": "C'è un libro sul tavolo",
+        "fr": "Il y a un livre sur la table"
+      },
+      "pronunciation": {
+        "zh": "Zhuōzi shàng yǒu shū",
+        "ko": "Teibeul wie chaegi itseumnida"
+      }
+    },
+    {
+      "id": "m1-005-3",
+      "construct_id": 5,
+      "variation": 3,
+      "translations": {
+        "ja": "ここに駅があります",
+        "en": "There is a station here",
+        "de": "Hier ist ein Bahnhof",
+        "zh": "这里有车站",
+        "ko": "여기에 역이 있습니다",
+        "es": "Aquí hay una estación",
+        "pt": "Aqui há uma estação",
+        "it": "Qui c'è una stazione",
+        "fr": "Il y a une gare ici"
+      },
+      "pronunciation": {
+        "zh": "Zhèlǐ yǒu chēzhàn",
+        "ko": "Yeogie yeogi itseumnida"
+      }
+    },
+    {
+      "id": "m1-005-4",
+      "construct_id": 5,
+      "variation": 4,
+      "translations": {
+        "ja": "教室に学生がいます",
+        "en": "There are students in the classroom",
+        "de": "Im Klassenzimmer sind Schüler",
+        "zh": "教室里有学生",
+        "ko": "교실에 학생들이 있습니다",
+        "es": "Hay estudiantes en el aula",
+        "pt": "Há estudantes na sala de aula",
+        "it": "Ci sono studenti in aula",
+        "fr": "Il y a des étudiants dans la salle"
+      },
+      "pronunciation": {
+        "zh": "Jiàoshì lǐ yǒu xuéshēng",
+        "ko": "Gyosire haksaengdeuli itseumnida"
+      }
+    },
+    {
+      "id": "m1-005-5",
+      "construct_id": 5,
+      "variation": 5,
+      "translations": {
+        "ja": "冷蔵庫にビールがあります",
+        "en": "There is beer in the fridge",
+        "de": "Im Kühlschrank ist Bier",
+        "zh": "冰箱里有啤酒",
+        "ko": "냉장고에 맥주가 있습니다",
+        "es": "Hay cerveza en el refrigerador",
+        "pt": "Há cerveja na geladeira",
+        "it": "C'è della birra in frigo",
+        "fr": "Il y a de la bière dans le frigo"
+      },
+      "pronunciation": {
+        "zh": "Bīngxiāng lǐ yǒu píjiǔ",
+        "ko": "Naengjanggoe maekjuga itseumnida"
+      }
+    },
+    {
+      "id": "m1-006-1",
+      "construct_id": 6,
+      "variation": 1,
+      "translations": {
+        "ja": "トイレはどこですか?",
+        "en": "Where is the bathroom?",
+        "de": "Wo ist die Toilette?",
+        "zh": "洗手间在哪里?",
+        "ko": "화장실은 어디입니까?",
+        "es": "¿Dónde está el baño?",
+        "pt": "Onde fica o banheiro?",
+        "it": "Dov'è il bagno?",
+        "fr": "Où sont les toilettes?"
+      },
+      "pronunciation": {
+        "zh": "Xǐshǒujiān zài nǎlǐ?",
+        "ko": "Hwajangsireun eodiimnikka?"
+      }
+    },
+    {
+      "id": "m1-006-2",
+      "construct_id": 6,
+      "variation": 2,
+      "translations": {
+        "ja": "駅はどこですか?",
+        "en": "Where is the station?",
+        "de": "Wo ist der Bahnhof?",
+        "zh": "车站在哪里?",
+        "ko": "역은 어디입니까?",
+        "es": "¿Dónde está la estación?",
+        "pt": "Onde fica a estação?",
+        "it": "Dov'è la stazione?",
+        "fr": "Où est la gare?"
+      },
+      "pronunciation": {
+        "zh": "Chēzhàn zài nǎlǐ?",
+        "ko": "Yeogeun eodiimnikka?"
+      }
+    },
+    {
+      "id": "m1-006-3",
+      "construct_id": 6,
+      "variation": 3,
+      "translations": {
+        "ja": "出口はどこですか?",
+        "en": "Where is the exit?",
+        "de": "Wo ist der Ausgang?",
+        "zh": "出口在哪里?",
+        "ko": "출구는 어디입니까?",
+        "es": "¿Dónde está la salida?",
+        "pt": "Onde fica a saída?",
+        "it": "Dov'è l'uscita?",
+        "fr": "Où est la sortie?"
+      },
+      "pronunciation": {
+        "zh": "Chūkǒu zài nǎlǐ?",
+        "ko": "Chulguneun eodiimnikka?"
+      }
+    },
+    {
+      "id": "m1-006-4",
+      "construct_id": 6,
+      "variation": 4,
+      "translations": {
+        "ja": "ホテルはどこですか?",
+        "en": "Where is the hotel?",
+        "de": "Wo ist das Hotel?",
+        "zh": "酒店在哪里?",
+        "ko": "호텔은 어디입니까?",
+        "es": "¿Dónde está el hotel?",
+        "pt": "Onde fica o hotel?",
+        "it": "Dov'è l'hotel?",
+        "fr": "Où est l'hôtel?"
+      },
+      "pronunciation": {
+        "zh": "Jiǔdiàn zài nǎlǐ?",
+        "ko": "Hoteleun eodiimnikka?"
+      }
+    },
+    {
+      "id": "m1-006-5",
+      "construct_id": 6,
+      "variation": 5,
+      "translations": {
+        "ja": "レストランはどこですか?",
+        "en": "Where is the restaurant?",
+        "de": "Wo ist das Restaurant?",
+        "zh": "餐厅在哪里?",
+        "ko": "식당은 어디입니까?",
+        "es": "¿Dónde está el restaurante?",
+        "pt": "Onde fica o restaurante?",
+        "it": "Dov'è il ristorante?",
+        "fr": "Où est le restaurant?"
+      },
+      "pronunciation": {
+        "zh": "Cāntīng zài nǎlǐ?",
+        "ko": "Sikdangeun eodiimnikka?"
+      }
+    },
+    {
+      "id": "m1-007-1",
+      "construct_id": 7,
+      "variation": 1,
+      "translations": {
+        "ja": "これは何ですか?",
+        "en": "What is this?",
+        "de": "Was ist das?",
+        "zh": "这是什么?",
+        "ko": "이것은 무엇입니까?",
+        "es": "¿Qué es esto?",
+        "pt": "O que é isto?",
+        "it": "Cos'è questo?",
+        "fr": "Qu'est-ce que c'est?"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì shénme?",
+        "ko": "Igeoseun mueosimnikka?"
+      }
+    },
+    {
+      "id": "m1-007-2",
+      "construct_id": 7,
+      "variation": 2,
+      "translations": {
+        "ja": "あれは何ですか?",
+        "en": "What is that?",
+        "de": "Was ist das dort?",
+        "zh": "那是什么?",
+        "ko": "저것은 무엇입니까?",
+        "es": "¿Qué es eso?",
+        "pt": "O que é aquilo?",
+        "it": "Cos'è quello?",
+        "fr": "Qu'est-ce que c'est là-bas?"
+      },
+      "pronunciation": {
+        "zh": "Nà shì shénme?",
+        "ko": "Jeogeoseun mueosimnikka?"
+      }
+    },
+    {
+      "id": "m1-007-3",
+      "construct_id": 7,
+      "variation": 3,
+      "translations": {
+        "ja": "それは何ですか?",
+        "en": "What is that (near you)?",
+        "de": "Was ist das (bei dir)?",
+        "zh": "那个是什么?",
+        "ko": "그것은 무엇입니까?",
+        "es": "¿Qué es eso?",
+        "pt": "O que é isso?",
+        "it": "Cos'è codesto?",
+        "fr": "Qu'est-ce que c'est?"
+      },
+      "pronunciation": {
+        "zh": "Nà ge shì shénme?",
+        "ko": "Geugeoseun mueosimnikka?"
+      }
+    },
+    {
+      "id": "m1-007-4",
+      "construct_id": 7,
+      "variation": 4,
+      "translations": {
+        "ja": "この音は何ですか?",
+        "en": "What is this sound?",
+        "de": "Was ist dieses Geräusch?",
+        "zh": "这是什么声音?",
+        "ko": "이 소리는 무엇입니까?",
+        "es": "¿Qué es este sonido?",
+        "pt": "Que som é esse?",
+        "it": "Che rumore è questo?",
+        "fr": "Quel est ce bruit?"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì shénme shēngyīn?",
+        "ko": "I sorineun mueosimnikka?"
+      }
+    },
+    {
+      "id": "m1-007-5",
+      "construct_id": 7,
+      "variation": 5,
+      "translations": {
+        "ja": "この食べ物は何ですか?",
+        "en": "What is this food?",
+        "de": "Was ist das für ein Essen?",
+        "zh": "这是什么食物?",
+        "ko": "이 음식은 무엇입니까?",
+        "es": "¿Qué es esta comida?",
+        "pt": "O que é esta comida?",
+        "it": "Cos'è questo cibo?",
+        "fr": "Qu'est-ce que c'est que ce plat?"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì shénme shíwù?",
+        "ko": "I eumsigeun mueosimnikka?"
+      }
+    },
+    {
+      "id": "m1-008-1",
+      "construct_id": 8,
+      "variation": 1,
+      "translations": {
+        "ja": "これはいくらですか?",
+        "en": "How much is this?",
+        "de": "Wie viel kostet das?",
+        "zh": "这个多少钱?",
+        "ko": "이것은 얼마입니까?",
+        "es": "¿Cuánto cuesta esto?",
+        "pt": "Quanto custa isto?",
+        "it": "Quanto costa questo?",
+        "fr": "Combien ça coûte?"
+      },
+      "pronunciation": {
+        "zh": "Zhè ge duōshǎo qián?",
+        "ko": "Igeoseun eolmaimnikka?"
+      }
+    },
+    {
+      "id": "m1-008-2",
+      "construct_id": 8,
+      "variation": 2,
+      "translations": {
+        "ja": "ビールはいくらですか?",
+        "en": "How much is the beer?",
+        "de": "Wie viel kostet das Bier?",
+        "zh": "啤酒多少钱?",
+        "ko": "맥주는 얼마입니까?",
+        "es": "¿Cuánto cuesta la cerveza?",
+        "pt": "Quanto custa a cerveja?",
+        "it": "Quanto costa la birra?",
+        "fr": "Combien coûte la bière?"
+      },
+      "pronunciation": {
+        "zh": "Píjiǔ duōshǎo qián?",
+        "ko": "Maekjuneun eolmaimnikka?"
+      }
+    },
+    {
+      "id": "m1-008-3",
+      "construct_id": 8,
+      "variation": 3,
+      "translations": {
+        "ja": "全部でいくらですか?",
+        "en": "How much is it in total?",
+        "de": "Was kostet das insgesamt?",
+        "zh": "总共多少钱?",
+        "ko": "전부 얼마입니까?",
+        "es": "¿Cuánto es en total?",
+        "pt": "Quanto é no total?",
+        "it": "Quanto è in totale?",
+        "fr": "Combien ça fait en tout?"
+      },
+      "pronunciation": {
+        "zh": "Zǒnggòng duōshǎo qián?",
+        "ko": "Jeonbu eolmaimnikka?"
+      }
+    },
+    {
+      "id": "m1-008-4",
+      "construct_id": 8,
+      "variation": 4,
+      "translations": {
+        "ja": "部屋はいくらですか?",
+        "en": "How much is the room?",
+        "de": "Was kostet das Zimmer?",
+        "zh": "房间多少钱?",
+        "ko": "방은 얼마입니까?",
+        "es": "¿Cuánto cuesta la habitación?",
+        "pt": "Quanto custa o quarto?",
+        "it": "Quanto costa la stanza?",
+        "fr": "Combien coûte la chambre?"
+      },
+      "pronunciation": {
+        "zh": "Fángjiān duōshǎo qián?",
+        "ko": "Bangeun eolmaimnikka?"
+      }
+    },
+    {
+      "id": "m1-008-5",
+      "construct_id": 8,
+      "variation": 5,
+      "translations": {
+        "ja": "このシャツはいくらですか?",
+        "en": "How much is this shirt?",
+        "de": "Wie viel kostet dieses Hemd?",
+        "zh": "这件衬衫多少钱?",
+        "ko": "이 셔츠는 얼마입니까?",
+        "es": "¿Cuánto cuesta esta camisa?",
+        "pt": "Quanto custa esta camisa?",
+        "it": "Quanto costa questa camicia?",
+        "fr": "Combien coûte cette chemise?"
+      },
+      "pronunciation": {
+        "zh": "Zhè jiàn chènshān duōshǎo qián?",
+        "ko": "I syeocheuneun eolmaimnikka?"
+      }
+    },
+    {
+      "id": "m1-009-1",
+      "construct_id": 9,
+      "variation": 1,
+      "translations": {
+        "ja": "私は車を持っています",
+        "en": "I have a car",
+        "de": "Ich habe ein Auto",
+        "zh": "我有一辆车",
+        "ko": "저는 차가 있습니다",
+        "es": "Tengo un coche",
+        "pt": "Tenho um carro",
+        "it": "Ho una macchina",
+        "fr": "J'ai une voiture"
+      },
+      "pronunciation": {
+        "zh": "Wǒ yǒu yī liàng chē",
+        "ko": "Jeoneun chaga itseumnida"
+      }
+    },
+    {
+      "id": "m1-009-2",
+      "construct_id": 9,
+      "variation": 2,
+      "translations": {
+        "ja": "私はスマホを持っています",
+        "en": "I have a smartphone",
+        "de": "Ich habe ein Smartphone",
+        "zh": "我有一部智能手机",
+        "ko": "저는 스마트폰이 있습니다",
+        "es": "Tengo un smartphone",
+        "pt": "Tenho um smartphone",
+        "it": "Ho uno smartphone",
+        "fr": "J'ai un smartphone"
+      },
+      "pronunciation": {
+        "zh": "Wǒ yǒu yī bù zhìnéng shǒujī",
+        "ko": "Jeoneun seumateuponi itseumnida"
+      }
+    },
+    {
+      "id": "m1-009-3",
+      "construct_id": 9,
+      "variation": 3,
+      "translations": {
+        "ja": "彼女は犬を飼っています",
+        "en": "She has a dog",
+        "de": "Sie hat einen Hund",
+        "zh": "她养了一只狗",
+        "ko": "그녀는 개를 키웁니다",
+        "es": "Ella tiene un perro",
+        "pt": "Ela tem um cachorro",
+        "it": "Lei ha un cane",
+        "fr": "Elle a un chien"
+      },
+      "pronunciation": {
+        "zh": "Tā yǎngle yī zhī gǒu",
+        "ko": "Geunyeoneun gaereul kiumnida"
+      }
+    },
+    {
+      "id": "m1-009-4",
+      "construct_id": 9,
+      "variation": 4,
+      "translations": {
+        "ja": "時間がありません",
+        "en": "I don't have time",
+        "de": "Ich habe keine Zeit",
+        "zh": "我没有时间",
+        "ko": "시간이 없습니다",
+        "es": "No tengo tiempo",
+        "pt": "Não tenho tempo",
+        "it": "Non ho tempo",
+        "fr": "Je n'ai pas le temps"
+      },
+      "pronunciation": {
+        "zh": "Wǒ méiyǒu shíjiān",
+        "ko": "Sigani eopseumnida"
+      }
+    },
+    {
+      "id": "m1-009-5",
+      "construct_id": 9,
+      "variation": 5,
+      "translations": {
+        "ja": "父は会社を経営しています",
+        "en": "My father runs a company",
+        "de": "Mein Vater leitet eine Firma",
+        "zh": "我父亲经营一家公司",
+        "ko": "아버지는 회사를 운영합니다",
+        "es": "Mi padre dirige una empresa",
+        "pt": "Meu pai dirige uma empresa",
+        "it": "Mio padre gestisce un'azienda",
+        "fr": "Mon père dirige une entreprise"
+      },
+      "pronunciation": {
+        "zh": "Wǒ fùqīn jīngyíng yī jiā gōngsī",
+        "ko": "Abeojineun hoesareul unyeonghamnida"
+      }
+    },
+    {
+      "id": "m1-010-1",
+      "construct_id": 10,
+      "variation": 1,
+      "translations": {
+        "ja": "水が欲しい",
+        "en": "I want water",
+        "de": "Ich will Wasser",
+        "zh": "我想要水",
+        "ko": "물을 원해요",
+        "es": "Quiero agua",
+        "pt": "Eu quero água",
+        "it": "Voglio acqua",
+        "fr": "Je veux de l'eau"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xiǎng yào shuǐ",
+        "ko": "Mureul wonhaeyo"
+      }
+    },
+    {
+      "id": "m1-010-2",
+      "construct_id": 10,
+      "variation": 2,
+      "translations": {
+        "ja": "新しい靴が欲しい",
+        "en": "I want new shoes",
+        "de": "Ich will neue Schuhe",
+        "zh": "我想要新鞋",
+        "ko": "새 신발을 원해요",
+        "es": "Quiero zapatos nuevos",
+        "pt": "Quero sapatos novos",
+        "it": "Voglio scarpe nuove",
+        "fr": "Je veux de nouvelles chaussures"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xiǎng yào xīn xié",
+        "ko": "Sae sinbareul wonhaeyo"
+      }
+    },
+    {
+      "id": "m1-010-3",
+      "construct_id": 10,
+      "variation": 3,
+      "translations": {
+        "ja": "休みが欲しい",
+        "en": "I want a break / day off",
+        "de": "Ich will eine Pause",
+        "zh": "我想休息",
+        "ko": "휴식이 필요해요",
+        "es": "Quiero un descanso",
+        "pt": "Quero um descanso",
+        "it": "Voglio una pausa",
+        "fr": "Je veux des vacances"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xiǎng xiūxí",
+        "ko": "Hyusigi piryohaeyo"
+      }
+    },
+    {
+      "id": "m1-010-4",
+      "construct_id": 10,
+      "variation": 4,
+      "translations": {
+        "ja": "静かな場所が欲しい",
+        "en": "I want a quiet place",
+        "de": "Ich will einen ruhigen Ort",
+        "zh": "我想要一个安静的地方",
+        "ko": "조용한 장소를 원해요",
+        "es": "Quiero un lugar tranquilo",
+        "pt": "Quero um lugar tranquilo",
+        "it": "Voglio un posto tranquillo",
+        "fr": "Je veux un endroit calme"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xiǎng yào yī gè ānjìng de dìfāng",
+        "ko": "Joyonghan jangsoreul wonhaeyo"
+      }
+    },
+    {
+      "id": "m1-010-5",
+      "construct_id": 10,
+      "variation": 5,
+      "translations": {
+        "ja": "もっと時間が欲しい",
+        "en": "I want more time",
+        "de": "Ich will mehr Zeit",
+        "zh": "我想要更多时间",
+        "ko": "더 많은 시간이 필요해요",
+        "es": "Quiero más tiempo",
+        "pt": "Quero mais tempo",
+        "it": "Voglio più tempo",
+        "fr": "Je veux plus de temps"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xiǎng yào gèng duō shíjiān",
+        "ko": "Deo maneun sigani piryohaeyo"
+      }
+    },
+    {
+      "id": "m1-011-1",
+      "construct_id": 11,
+      "variation": 1,
+      "translations": {
+        "ja": "コーヒーをください",
+        "en": "Coffee please",
+        "de": "Einen Kaffee bitte",
+        "zh": "请给我咖啡",
+        "ko": "커피 주세요",
+        "es": "Café, por favor",
+        "pt": "Um café, por favor",
+        "it": "Un caffè, per favore",
+        "fr": "Un café, s'il vous plaît"
+      },
+      "pronunciation": {
+        "zh": "Qǐng gěi wǒ kāfēi",
+        "ko": "Keopi juseyo"
+      }
+    },
+    {
+      "id": "m1-011-2",
+      "construct_id": 11,
+      "variation": 2,
+      "translations": {
+        "ja": "水をください",
+        "en": "Water please",
+        "de": "Wasser bitte",
+        "zh": "请给我水",
+        "ko": "물 주세요",
+        "es": "Agua, por favor",
+        "pt": "Água, por favor",
+        "it": "Acqua, per favore",
+        "fr": "De l'eau, s'il vous plaît"
+      },
+      "pronunciation": {
+        "zh": "Qǐng gěi wǒ shuǐ",
+        "ko": "Mul juseyo"
+      }
+    },
+    {
+      "id": "m1-011-3",
+      "construct_id": 11,
+      "variation": 3,
+      "translations": {
+        "ja": "領収書をください",
+        "en": "Receipt please",
+        "de": "Eine Quittung bitte",
+        "zh": "请给我收据",
+        "ko": "영수증 주세요",
+        "es": "El recibo, por favor",
+        "pt": "A nota, por favor",
+        "it": "Lo scontrino, per favore",
+        "fr": "Le reçu, s'il vous plaît"
+      },
+      "pronunciation": {
+        "zh": "Qǐng gěi wǒ shōujù",
+        "ko": "Yeongsujeung juseyo"
+      }
+    },
+    {
+      "id": "m1-011-4",
+      "construct_id": 11,
+      "variation": 4,
+      "translations": {
+        "ja": "メニューをください",
+        "en": "Menu please",
+        "de": "Die Speisekarte bitte",
+        "zh": "请给我菜单",
+        "ko": "메뉴 주세요",
+        "es": "El menú, por favor",
+        "pt": "O cardápio, por favor",
+        "it": "Il menù, per favore",
+        "fr": "Le menu, s'il vous plaît"
+      },
+      "pronunciation": {
+        "zh": "Qǐng gěi wǒ càidān",
+        "ko": "Menyu juseyo"
+      }
+    },
+    {
+      "id": "m1-011-5",
+      "construct_id": 11,
+      "variation": 5,
+      "translations": {
+        "ja": "これをください",
+        "en": "I'll take this one",
+        "de": "Das nehme ich",
+        "zh": "我要这个",
+        "ko": "이것 주세요",
+        "es": "Este, por favor",
+        "pt": "Este, por favor",
+        "it": "Prendo questo",
+        "fr": "Je prends celui-ci"
+      },
+      "pronunciation": {
+        "zh": "Wǒ yào zhè ge",
+        "ko": "Igeot juseyo"
+      }
+    },
+    {
+      "id": "m1-012-1",
+      "construct_id": 12,
+      "variation": 1,
+      "translations": {
+        "ja": "私は犬が好きです",
+        "en": "I like dogs",
+        "de": "Ich mag Hunde",
+        "zh": "我喜欢狗",
+        "ko": "저는 개를 좋아합니다",
+        "es": "Me gustan los perros",
+        "pt": "Eu gosto de cachorros",
+        "it": "Mi piacciono i cani",
+        "fr": "J'aime les chiens"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xǐhuān gǒu",
+        "ko": "Jeoneun gaereul joahamnida"
+      }
+    },
+    {
+      "id": "m1-012-2",
+      "construct_id": 12,
+      "variation": 2,
+      "translations": {
+        "ja": "私は音楽が好きです",
+        "en": "I like music",
+        "de": "Ich mag Musik",
+        "zh": "我喜欢音乐",
+        "ko": "저는 음악을 좋아합니다",
+        "es": "Me gusta la música",
+        "pt": "Eu gosto de música",
+        "it": "Mi piace la musica",
+        "fr": "J'aime la musique"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xǐhuān yīnyuè",
+        "ko": "Jeoneun eumageul joahamnida"
+      }
+    },
+    {
+      "id": "m1-012-3",
+      "construct_id": 12,
+      "variation": 3,
+      "translations": {
+        "ja": "私は日本食が好きです",
+        "en": "I like Japanese food",
+        "de": "Ich mag japanisches Essen",
+        "zh": "我喜欢日本菜",
+        "ko": "저는 일본 음식을 좋아합니다",
+        "es": "Me gusta la comida japonesa",
+        "pt": "Gosto de comida japonesa",
+        "it": "Mi piace la cucina giapponese",
+        "fr": "J'aime la cuisine japonaise"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xǐhuān rìběn cài",
+        "ko": "Jeoneun ilbon eumsigeul joahamnida"
+      }
+    },
+    {
+      "id": "m1-012-4",
+      "construct_id": 12,
+      "variation": 4,
+      "translations": {
+        "ja": "私は読書が好きです",
+        "en": "I like reading",
+        "de": "Ich lese gerne",
+        "zh": "我喜欢看书",
+        "ko": "저는 독서를 좋아합니다",
+        "es": "Me gusta leer",
+        "pt": "Gosto de ler",
+        "it": "Mi piace leggere",
+        "fr": "J'aime lire"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xǐhuān kàn shū",
+        "ko": "Jeoneun dokseoreul joahamnida"
+      }
+    },
+    {
+      "id": "m1-012-5",
+      "construct_id": 12,
+      "variation": 5,
+      "translations": {
+        "ja": "私は冬が好きです",
+        "en": "I like winter",
+        "de": "Ich mag den Winter",
+        "zh": "我喜欢冬天",
+        "ko": "저는 겨울을 좋아합니다",
+        "es": "Me gusta el invierno",
+        "pt": "Gosto do inverno",
+        "it": "Mi piace l'inverno",
+        "fr": "J'aime l'hiver"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xǐhuān dōngtiān",
+        "ko": "Jeoneun gyeoureul joahamnida"
+      }
+    },
+    {
+      "id": "m1-013-1",
+      "construct_id": 13,
+      "variation": 1,
+      "translations": {
+        "ja": "野菜が好きじゃない",
+        "en": "I don't like vegetables",
+        "de": "Ich mag kein Gemüse",
+        "zh": "我不喜欢蔬菜",
+        "ko": "저는 채소를 좋아하지 않습니다",
+        "es": "No me gustan las verduras",
+        "pt": "Não gosto de legumes",
+        "it": "Non mi piacciono le verdure",
+        "fr": "Je n'aime pas les légumes"
+      },
+      "pronunciation": {
+        "zh": "Wǒ bù xǐhuān shūcài",
+        "ko": "Jeoneun chaesoreul joahaji anhseumnida"
+      }
+    },
+    {
+      "id": "m1-013-2",
+      "construct_id": 13,
+      "variation": 2,
+      "translations": {
+        "ja": "雨が好きじゃない",
+        "en": "I don't like rain",
+        "de": "Ich mag keinen Regen",
+        "zh": "我不喜欢下雨",
+        "ko": "저는 비를 좋아하지 않습니다",
+        "es": "No me gusta la lluvia",
+        "pt": "Não gosto de chuva",
+        "it": "Non mi piace la pioggia",
+        "fr": "Je n'aime pas la pluie"
+      },
+      "pronunciation": {
+        "zh": "Wǒ bù xǐhuān xià yǔ",
+        "ko": "Jeoneun bireul joahaji anhseumnida"
+      }
+    },
+    {
+      "id": "m1-013-3",
+      "construct_id": 13,
+      "variation": 3,
+      "translations": {
+        "ja": "早起きが好きじゃない",
+        "en": "I don't like waking up early",
+        "de": "Ich stehe nicht gerne früh auf",
+        "zh": "我不喜欢早起",
+        "ko": "저는 일찍 일어나는 것을 좋아하지 않습니다",
+        "es": "No me gusta madrugar",
+        "pt": "Não gosto de acordar cedo",
+        "it": "Non mi piace alzarmi presto",
+        "fr": "Je n'aime pas me lever tôt"
+      },
+      "pronunciation": {
+        "zh": "Wǒ bù xǐhuān zǎoqǐ",
+        "ko": "Jeoneun iljjik ireonaneun geoseul joahaji anhseumnida"
+      }
+    },
+    {
+      "id": "m1-013-4",
+      "construct_id": 13,
+      "variation": 4,
+      "translations": {
+        "ja": "ホラー映画が好きじゃない",
+        "en": "I don't like horror movies",
+        "de": "Ich mag keine Horrorfilme",
+        "zh": "我不喜欢恐怖电影",
+        "ko": "저는 공포 영화를 좋아하지 않습니다",
+        "es": "No me gustan las películas de terror",
+        "pt": "Não gosto de filmes de terror",
+        "it": "Non mi piacciono i film horror",
+        "fr": "Je n'aime pas les films d'horreur"
+      },
+      "pronunciation": {
+        "zh": "Wǒ bù xǐhuān kǒngbù diànyǐng",
+        "ko": "Jeoneun gongpo yeonghwareul joahaji anhseumnida"
+      }
+    },
+    {
+      "id": "m1-013-5",
+      "construct_id": 13,
+      "variation": 5,
+      "translations": {
+        "ja": "混雑が好きじゃない",
+        "en": "I don't like crowds",
+        "de": "Ich mag keine Menschenmassen",
+        "zh": "我不喜欢拥挤",
+        "ko": "저는 사람 많은 곳을 좋아하지 않습니다",
+        "es": "No me gustan las multitudes",
+        "pt": "Não gosto de aglomerações",
+        "it": "Non mi piace la folla",
+        "fr": "Je n'aime pas la foule"
+      },
+      "pronunciation": {
+        "zh": "Wǒ bù xǐhuān yōngjǐ",
+        "ko": "Jeoneun saram maneun goseul joahaji anhseumnida"
+      }
+    },
+    {
+      "id": "m1-014-1",
+      "construct_id": 14,
+      "variation": 1,
+      "translations": {
+        "ja": "助けが必要です",
+        "en": "I need help",
+        "de": "Ich brauche Hilfe",
+        "zh": "我需要帮助",
+        "ko": "도움이 필요합니다",
+        "es": "Necesito ayuda",
+        "pt": "Preciso de ajuda",
+        "it": "Ho bisogno di aiuto",
+        "fr": "J'ai besoin d'aide"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xūyào bāngzhù",
+        "ko": "Doumi piryohamnida"
+      }
+    },
+    {
+      "id": "m1-014-2",
+      "construct_id": 14,
+      "variation": 2,
+      "translations": {
+        "ja": "時間が必要です",
+        "en": "I need time",
+        "de": "Ich brauche Zeit",
+        "zh": "我需要时间",
+        "ko": "시간이 필요합니다",
+        "es": "Necesito tiempo",
+        "pt": "Preciso de tempo",
+        "it": "Ho bisogno di tempo",
+        "fr": "J'ai besoin de temps"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xūyào shíjiān",
+        "ko": "Sigani piryohamnida"
+      }
+    },
+    {
+      "id": "m1-014-3",
+      "construct_id": 14,
+      "variation": 3,
+      "translations": {
+        "ja": "水が必要です",
+        "en": "I need water",
+        "de": "Ich brauche Wasser",
+        "zh": "我需要水",
+        "ko": "물이 필요합니다",
+        "es": "Necesito agua",
+        "pt": "Preciso de água",
+        "it": "Ho bisogno di acqua",
+        "fr": "J'ai besoin d'eau"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xūyào shuǐ",
+        "ko": "Muri piryohamnida"
+      }
+    },
+    {
+      "id": "m1-014-4",
+      "construct_id": 14,
+      "variation": 4,
+      "translations": {
+        "ja": "パスポートが必要です",
+        "en": "I need a passport",
+        "de": "Ich brauche einen Reisepass",
+        "zh": "我需要护照",
+        "ko": "여권이 필요합니다",
+        "es": "Necesito un pasaporte",
+        "pt": "Preciso de um passaporte",
+        "it": "Ho bisogno del passaporto",
+        "fr": "J'ai besoin d'un passeport"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xūyào hùzhào",
+        "ko": "Yeogwoni piryohamnida"
+      }
+    },
+    {
+      "id": "m1-014-5",
+      "construct_id": 14,
+      "variation": 5,
+      "translations": {
+        "ja": "休憩が必要です",
+        "en": "I need a break",
+        "de": "Ich brauche eine Pause",
+        "zh": "我需要休息",
+        "ko": "휴식이 필요합니다",
+        "es": "Necesito un descanso",
+        "pt": "Preciso de um descanso",
+        "it": "Ho bisogno di una pausa",
+        "fr": "J'ai besoin d'une pause"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xūyào xiūxí",
+        "ko": "Hyusigi piryohamnida"
+      }
+    },
+    {
+      "id": "m1-015-1",
+      "construct_id": 15,
+      "variation": 1,
+      "translations": {
+        "ja": "ペンを持っていますか?",
+        "en": "Do you have a pen?",
+        "de": "Hast du einen Stift?",
+        "zh": "你有笔吗?",
+        "ko": "펜이 있어요?",
+        "es": "¿Tienes un bolígrafo?",
+        "pt": "Você tem uma caneta?",
+        "it": "Hai una penna?",
+        "fr": "Tu as un stylo?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ yǒu bǐ ma?",
+        "ko": "Peni isseoyo?"
+      }
+    },
+    {
+      "id": "m1-015-2",
+      "construct_id": 15,
+      "variation": 2,
+      "translations": {
+        "ja": "時間ありますか?",
+        "en": "Do you have time?",
+        "de": "Hast du Zeit?",
+        "zh": "你有时间吗?",
+        "ko": "시간 있어요?",
+        "es": "¿Tienes tiempo?",
+        "pt": "Você tem tempo?",
+        "it": "Hai tempo?",
+        "fr": "Tu as le temps?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ yǒu shíjiān ma?",
+        "ko": "Sigan isseoyo?"
+      }
+    },
+    {
+      "id": "m1-015-3",
+      "construct_id": 15,
+      "variation": 3,
+      "translations": {
+        "ja": "子供がいますか?",
+        "en": "Do you have children?",
+        "de": "Hast du Kinder?",
+        "zh": "你有孩子吗?",
+        "ko": "자녀가 있어요?",
+        "es": "¿Tienes hijos?",
+        "pt": "Você tem filhos?",
+        "it": "Hai figli?",
+        "fr": "Tu as des enfants?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ yǒu háizi ma?",
+        "ko": "Janyeoga isseoyo?"
+      }
+    },
+    {
+      "id": "m1-015-4",
+      "construct_id": 15,
+      "variation": 4,
+      "translations": {
+        "ja": "お金を持っていますか?",
+        "en": "Do you have money?",
+        "de": "Hast du Geld?",
+        "zh": "你有钱吗?",
+        "ko": "돈이 있어요?",
+        "es": "¿Tienes dinero?",
+        "pt": "Você tem dinheiro?",
+        "it": "Hai soldi?",
+        "fr": "Tu as de l'argent?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ yǒu qián ma?",
+        "ko": "Doni isseoyo?"
+      }
+    },
+    {
+      "id": "m1-015-5",
+      "construct_id": 15,
+      "variation": 5,
+      "translations": {
+        "ja": "パスポートを持っていますか?",
+        "en": "Do you have a passport?",
+        "de": "Hast du einen Pass?",
+        "zh": "你有护照吗?",
+        "ko": "여권이 있어요?",
+        "es": "¿Tienes pasaporte?",
+        "pt": "Você tem passaporte?",
+        "it": "Hai il passaporto?",
+        "fr": "Tu as un passeport?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ yǒu hùzhào ma?",
+        "ko": "Yeogwoni isseoyo?"
+      }
+    },
+    {
+      "id": "m1-016-1",
+      "construct_id": 16,
+      "variation": 1,
+      "translations": {
+        "ja": "これは誰の鞄ですか?",
+        "en": "Whose bag is this?",
+        "de": "Wessen Tasche ist das?",
+        "zh": "这是谁的包?",
+        "ko": "이것은 누구의 가방입니까?",
+        "es": "¿De quién es esta bolsa?",
+        "pt": "De quem é esta bolsa?",
+        "it": "Di chi è questa borsa?",
+        "fr": "À qui est ce sac?"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì shéi de bāo?",
+        "ko": "Igeoseun nuguui gabangimnikka?"
+      }
+    },
+    {
+      "id": "m1-016-2",
+      "construct_id": 16,
+      "variation": 2,
+      "translations": {
+        "ja": "この本は誰のですか?",
+        "en": "Whose book is this?",
+        "de": "Wessen Buch ist das?",
+        "zh": "这本书是谁的?",
+        "ko": "이 책은 누구 거예요?",
+        "es": "¿De quién es este libro?",
+        "pt": "De quem é este livro?",
+        "it": "Di chi è questo libro?",
+        "fr": "À qui est ce livre?"
+      },
+      "pronunciation": {
+        "zh": "Zhè běn shū shì shéi de?",
+        "ko": "I chaegeun nugu geoyeyo?"
+      }
+    },
+    {
+      "id": "m1-016-3",
+      "construct_id": 16,
+      "variation": 3,
+      "translations": {
+        "ja": "その車は誰のですか?",
+        "en": "Whose car is that?",
+        "de": "Wessen Auto ist das?",
+        "zh": "那辆车是谁的?",
+        "ko": "저 차는 누구 거예요?",
+        "es": "¿De quién es ese coche?",
+        "pt": "De quem é aquele carro?",
+        "it": "Di chi è quella macchina?",
+        "fr": "À qui est cette voiture?"
+      },
+      "pronunciation": {
+        "zh": "Nà liàng chē shì shéi de?",
+        "ko": "Jeo chaneun nugu geoyeyo?"
+      }
+    },
+    {
+      "id": "m1-016-4",
+      "construct_id": 16,
+      "variation": 4,
+      "translations": {
+        "ja": "この席は誰のですか?",
+        "en": "Whose seat is this?",
+        "de": "Wessen Platz ist das?",
+        "zh": "这个座位是谁的?",
+        "ko": "이 자리는 누구 자리예요?",
+        "es": "¿De quién es este asiento?",
+        "pt": "De quem é este assento?",
+        "it": "Di chi è questo posto?",
+        "fr": "À qui est cette place?"
+      },
+      "pronunciation": {
+        "zh": "Zhè ge zuòwèi shì shéi de?",
+        "ko": "I jarineun nugu jariyeyo?"
+      }
+    },
+    {
+      "id": "m1-016-5",
+      "construct_id": 16,
+      "variation": 5,
+      "translations": {
+        "ja": "これは誰の傘ですか?",
+        "en": "Whose umbrella is this?",
+        "de": "Wessen Regenschirm ist das?",
+        "zh": "这是谁的伞?",
+        "ko": "이것은 누구의 우산입니까?",
+        "es": "¿De quién es este paraguas?",
+        "pt": "De quem é este guarda-chuva?",
+        "it": "Di chi è questo ombrello?",
+        "fr": "À qui est ce parapluie?"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì shéi de sǎn?",
+        "ko": "Igeoseun nuguui usanimnikka?"
+      }
+    },
+    {
+      "id": "m1-017-1",
+      "construct_id": 17,
+      "variation": 1,
+      "translations": {
+        "ja": "私は毎日勉強します",
+        "en": "I study every day",
+        "de": "Ich lerne jeden Tag",
+        "zh": "我每天学习",
+        "ko": "저는 매일 공부합니다",
+        "es": "Estudio todos los días",
+        "pt": "Eu estudo todos os dias",
+        "it": "Studio ogni giorno",
+        "fr": "J'étudie tous les jours"
+      },
+      "pronunciation": {
+        "zh": "Wǒ měitiān xuéxí",
+        "ko": "Jeoneun maeil gongbuhamnida"
+      }
+    },
+    {
+      "id": "m1-017-2",
+      "construct_id": 17,
+      "variation": 2,
+      "translations": {
+        "ja": "私はテニスをします",
+        "en": "I play tennis",
+        "de": "Ich spiele Tennis",
+        "zh": "我打网球",
+        "ko": "저는 테니스를 칩니다",
+        "es": "Juego al tenis",
+        "pt": "Eu jogo tênis",
+        "it": "Gioco a tennis",
+        "fr": "Je joue au tennis"
+      },
+      "pronunciation": {
+        "zh": "Wǒ dǎ wǎngqiú",
+        "ko": "Jeoneun teniseureul chimnida"
+      }
+    },
+    {
+      "id": "m1-017-3",
+      "construct_id": 17,
+      "variation": 3,
+      "translations": {
+        "ja": "私は早く起きます",
+        "en": "I wake up early",
+        "de": "Ich stehe früh auf",
+        "zh": "我早起",
+        "ko": "저는 일찍 일어납니다",
+        "es": "Me levanto temprano",
+        "pt": "Eu acordo cedo",
+        "it": "Mi alzo presto",
+        "fr": "Je me lève tôt"
+      },
+      "pronunciation": {
+        "zh": "Wǒ zǎo qǐ",
+        "ko": "Jeoneun iljjik ireonamnida"
+      }
+    },
+    {
+      "id": "m1-017-4",
+      "construct_id": 17,
+      "variation": 4,
+      "translations": {
+        "ja": "私は本を読みます",
+        "en": "I read books",
+        "de": "Ich lese Bücher",
+        "zh": "我看书",
+        "ko": "저는 책을 읽습니다",
+        "es": "Leo libros",
+        "pt": "Eu leio livros",
+        "it": "Leggo libri",
+        "fr": "Je lis des livres"
+      },
+      "pronunciation": {
+        "zh": "Wǒ kàn shū",
+        "ko": "Jeoneun chaegeul ikseumnida"
+      }
+    },
+    {
+      "id": "m1-017-5",
+      "construct_id": 17,
+      "variation": 5,
+      "translations": {
+        "ja": "私は音楽を聞きます",
+        "en": "I listen to music",
+        "de": "Ich höre Musik",
+        "zh": "我听音乐",
+        "ko": "저는 음악을 듣습니다",
+        "es": "Escucho música",
+        "pt": "Eu escuto música",
+        "it": "Ascolto musica",
+        "fr": "J'écoute de la musique"
+      },
+      "pronunciation": {
+        "zh": "Wǒ tīng yīnyuè",
+        "ko": "Jeoneun eumageul deudseumnida"
+      }
+    },
+    {
+      "id": "m1-018-1",
+      "construct_id": 18,
+      "variation": 1,
+      "translations": {
+        "ja": "私は学校に行きます",
+        "en": "I go to school",
+        "de": "Ich gehe zur Schule",
+        "zh": "我去学校",
+        "ko": "저는 학교에 갑니다",
+        "es": "Voy a la escuela",
+        "pt": "Eu vou para a escola",
+        "it": "Vado a scuola",
+        "fr": "Je vais à l'école"
+      },
+      "pronunciation": {
+        "zh": "Wǒ qù xuéxiào",
+        "ko": "Jeoneun hakgyoe gamnida"
+      }
+    },
+    {
+      "id": "m1-018-2",
+      "construct_id": 18,
+      "variation": 2,
+      "translations": {
+        "ja": "明日東京に行きます",
+        "en": "I'm going to Tokyo tomorrow",
+        "de": "Morgen fahre ich nach Tokio",
+        "zh": "我明天去东京",
+        "ko": "내일 도쿄에 갑니다",
+        "es": "Mañana voy a Tokio",
+        "pt": "Amanhã vou para Tóquio",
+        "it": "Domani vado a Tokyo",
+        "fr": "Demain je vais à Tokyo"
+      },
+      "pronunciation": {
+        "zh": "Wǒ míngtiān qù Dōngjīng",
+        "ko": "Naeil Dokyoe gamnida"
+      }
+    },
+    {
+      "id": "m1-018-3",
+      "construct_id": 18,
+      "variation": 3,
+      "translations": {
+        "ja": "病院に行きます",
+        "en": "I'm going to the hospital",
+        "de": "Ich gehe ins Krankenhaus",
+        "zh": "我去医院",
+        "ko": "병원에 갑니다",
+        "es": "Voy al hospital",
+        "pt": "Vou ao hospital",
+        "it": "Vado in ospedale",
+        "fr": "Je vais à l'hôpital"
+      },
+      "pronunciation": {
+        "zh": "Wǒ qù yīyuàn",
+        "ko": "Byeongwone gamnida"
+      }
+    },
+    {
+      "id": "m1-018-4",
+      "construct_id": 18,
+      "variation": 4,
+      "translations": {
+        "ja": "駅に行きます",
+        "en": "I'm going to the station",
+        "de": "Ich gehe zum Bahnhof",
+        "zh": "我去车站",
+        "ko": "역에 갑니다",
+        "es": "Voy a la estación",
+        "pt": "Vou à estação",
+        "it": "Vado alla stazione",
+        "fr": "Je vais à la gare"
+      },
+      "pronunciation": {
+        "zh": "Wǒ qù chēzhàn",
+        "ko": "Yeoge gamnida"
+      }
+    },
+    {
+      "id": "m1-018-5",
+      "construct_id": 18,
+      "variation": 5,
+      "translations": {
+        "ja": "海に行きます",
+        "en": "I'm going to the sea",
+        "de": "Ich fahre ans Meer",
+        "zh": "我去海边",
+        "ko": "바다에 갑니다",
+        "es": "Voy al mar",
+        "pt": "Vou para a praia",
+        "it": "Vado al mare",
+        "fr": "Je vais à la mer"
+      },
+      "pronunciation": {
+        "zh": "Wǒ qù hǎibiān",
+        "ko": "Badae gamnida"
+      }
+    },
+    {
+      "id": "m1-019-1",
+      "construct_id": 19,
+      "variation": 1,
+      "translations": {
+        "ja": "私は朝ごはんを食べます",
+        "en": "I eat breakfast",
+        "de": "Ich esse Frühstück",
+        "zh": "我吃早餐",
+        "ko": "저는 아침을 먹습니다",
+        "es": "Desayuno",
+        "pt": "Eu tomo café da manhã",
+        "it": "Faccio colazione",
+        "fr": "Je prends le petit-déjeuner"
+      },
+      "pronunciation": {
+        "zh": "Wǒ chī zǎocān",
+        "ko": "Jeoneun achimeul mokseumnida"
+      }
+    },
+    {
+      "id": "m1-019-2",
+      "construct_id": 19,
+      "variation": 2,
+      "translations": {
+        "ja": "私はコーヒーを飲みます",
+        "en": "I drink coffee",
+        "de": "Ich trinke Kaffee",
+        "zh": "我喝咖啡",
+        "ko": "저는 커피를 마십니다",
+        "es": "Bebo café",
+        "pt": "Eu bebo café",
+        "it": "Bevo caffè",
+        "fr": "Je bois du café"
+      },
+      "pronunciation": {
+        "zh": "Wǒ hē kāfēi",
+        "ko": "Jeoneun keopireul masimnida"
+      }
+    },
+    {
+      "id": "m1-019-3",
+      "construct_id": 19,
+      "variation": 3,
+      "translations": {
+        "ja": "彼は寿司を食べます",
+        "en": "He eats sushi",
+        "de": "Er isst Sushi",
+        "zh": "他吃寿司",
+        "ko": "그는 초밥을 먹습니다",
+        "es": "Él come sushi",
+        "pt": "Ele come sushi",
+        "it": "Lui mangia il sushi",
+        "fr": "Il mange des sushis"
+      },
+      "pronunciation": {
+        "zh": "Tā chī shòusī",
+        "ko": "Geuneun chobabeul mokseumnida"
+      }
+    },
+    {
+      "id": "m1-019-4",
+      "construct_id": 19,
+      "variation": 4,
+      "translations": {
+        "ja": "彼女はワインを飲みます",
+        "en": "She drinks wine",
+        "de": "Sie trinkt Wein",
+        "zh": "她喝葡萄酒",
+        "ko": "그녀는 와인을 마십니다",
+        "es": "Ella bebe vino",
+        "pt": "Ela bebe vinho",
+        "it": "Lei beve vino",
+        "fr": "Elle boit du vin"
+      },
+      "pronunciation": {
+        "zh": "Tā hē pútáojiǔ",
+        "ko": "Geunyeoneun waineul masimnida"
+      }
+    },
+    {
+      "id": "m1-019-5",
+      "construct_id": 19,
+      "variation": 5,
+      "translations": {
+        "ja": "子供は牛乳を飲みます",
+        "en": "The child drinks milk",
+        "de": "Das Kind trinkt Milch",
+        "zh": "孩子喝牛奶",
+        "ko": "아이는 우유를 마십니다",
+        "es": "El niño bebe leche",
+        "pt": "A criança bebe leite",
+        "it": "Il bambino beve il latte",
+        "fr": "L'enfant boit du lait"
+      },
+      "pronunciation": {
+        "zh": "Háizi hē niúnǎi",
+        "ko": "Aineun uyureul masimnida"
+      }
+    },
+    {
+      "id": "m1-020-1",
+      "construct_id": 20,
+      "variation": 1,
+      "translations": {
+        "ja": "私は東京に住んでいます",
+        "en": "I live in Tokyo",
+        "de": "Ich wohne in Tokio",
+        "zh": "我住在东京",
+        "ko": "저는 도쿄에 살고 있습니다",
+        "es": "Vivo en Tokio",
+        "pt": "Moro em Tóquio",
+        "it": "Vivo a Tokyo",
+        "fr": "J'habite à Tokyo"
+      },
+      "pronunciation": {
+        "zh": "Wǒ zhù zài Dōngjīng",
+        "ko": "Jeoneun Dokyoe salgo itseumnida"
+      }
+    },
+    {
+      "id": "m1-020-2",
+      "construct_id": 20,
+      "variation": 2,
+      "translations": {
+        "ja": "彼はアメリカに住んでいます",
+        "en": "He lives in America",
+        "de": "Er wohnt in Amerika",
+        "zh": "他住在美国",
+        "ko": "그는 미국에 살고 있습니다",
+        "es": "Él vive en Estados Unidos",
+        "pt": "Ele mora nos Estados Unidos",
+        "it": "Lui vive in America",
+        "fr": "Il habite aux États-Unis"
+      },
+      "pronunciation": {
+        "zh": "Tā zhù zài Měiguó",
+        "ko": "Geuneun Miguge salgo itseumnida"
+      }
+    },
+    {
+      "id": "m1-020-3",
+      "construct_id": 20,
+      "variation": 3,
+      "translations": {
+        "ja": "私たちは郊外に住んでいます",
+        "en": "We live in the suburbs",
+        "de": "Wir wohnen in einem Vorort",
+        "zh": "我们住在郊区",
+        "ko": "우리는 교외에 살고 있습니다",
+        "es": "Vivimos en las afueras",
+        "pt": "Moramos no subúrbio",
+        "it": "Viviamo in periferia",
+        "fr": "Nous habitons en banlieue"
+      },
+      "pronunciation": {
+        "zh": "Wǒmen zhù zài jiāoqū",
+        "ko": "Urineun gyooee salgo itseumnida"
+      }
+    },
+    {
+      "id": "m1-020-4",
+      "construct_id": 20,
+      "variation": 4,
+      "translations": {
+        "ja": "母はパリに住んでいます",
+        "en": "My mother lives in Paris",
+        "de": "Meine Mutter wohnt in Paris",
+        "zh": "我母亲住在巴黎",
+        "ko": "어머니는 파리에 살고 있습니다",
+        "es": "Mi madre vive en París",
+        "pt": "Minha mãe mora em Paris",
+        "it": "Mia madre vive a Parigi",
+        "fr": "Ma mère habite à Paris"
+      },
+      "pronunciation": {
+        "zh": "Wǒ mǔqīn zhù zài Bālí",
+        "ko": "Eomeonineun Parie salgo itseumnida"
+      }
+    },
+    {
+      "id": "m1-020-5",
+      "construct_id": 20,
+      "variation": 5,
+      "translations": {
+        "ja": "友達は大阪に住んでいます",
+        "en": "My friend lives in Osaka",
+        "de": "Mein Freund wohnt in Osaka",
+        "zh": "我朋友住在大阪",
+        "ko": "친구는 오사카에 살고 있습니다",
+        "es": "Mi amigo vive en Osaka",
+        "pt": "Meu amigo mora em Osaka",
+        "it": "Il mio amico vive a Osaka",
+        "fr": "Mon ami habite à Osaka"
+      },
+      "pronunciation": {
+        "zh": "Wǒ péngyǒu zhù zài Dàbǎn",
+        "ko": "Chinguneun Osakae salgo itseumnida"
+      }
+    },
+    {
+      "id": "m1-021-1",
+      "construct_id": 21,
+      "variation": 1,
+      "translations": {
+        "ja": "私は銀行で働いています",
+        "en": "I work at a bank",
+        "de": "Ich arbeite bei einer Bank",
+        "zh": "我在银行工作",
+        "ko": "저는 은행에서 일합니다",
+        "es": "Trabajo en un banco",
+        "pt": "Eu trabalho em um banco",
+        "it": "Lavoro in banca",
+        "fr": "Je travaille dans une banque"
+      },
+      "pronunciation": {
+        "zh": "Wǒ zài yínháng gōngzuò",
+        "ko": "Jeoneun eunhaengeseo ilhamnida"
+      }
+    },
+    {
+      "id": "m1-021-2",
+      "construct_id": 21,
+      "variation": 2,
+      "translations": {
+        "ja": "彼はIT会社で働いています",
+        "en": "He works at an IT company",
+        "de": "Er arbeitet bei einer IT-Firma",
+        "zh": "他在IT公司工作",
+        "ko": "그는 IT 회사에서 일합니다",
+        "es": "Él trabaja en una empresa de TI",
+        "pt": "Ele trabalha em uma empresa de TI",
+        "it": "Lui lavora in un'azienda IT",
+        "fr": "Il travaille dans une entreprise informatique"
+      },
+      "pronunciation": {
+        "zh": "Tā zài IT gōngsī gōngzuò",
+        "ko": "Geuneun IT hoesaeseo ilhamnida"
+      }
+    },
+    {
+      "id": "m1-021-3",
+      "construct_id": 21,
+      "variation": 3,
+      "translations": {
+        "ja": "母は病院で働いています",
+        "en": "My mother works at a hospital",
+        "de": "Meine Mutter arbeitet im Krankenhaus",
+        "zh": "我母亲在医院工作",
+        "ko": "어머니는 병원에서 일합니다",
+        "es": "Mi madre trabaja en un hospital",
+        "pt": "Minha mãe trabalha em um hospital",
+        "it": "Mia madre lavora in ospedale",
+        "fr": "Ma mère travaille dans un hôpital"
+      },
+      "pronunciation": {
+        "zh": "Wǒ mǔqīn zài yīyuàn gōngzuò",
+        "ko": "Eomeonineun byeongwoneseo ilhamnida"
+      }
+    },
+    {
+      "id": "m1-021-4",
+      "construct_id": 21,
+      "variation": 4,
+      "translations": {
+        "ja": "父は学校で働いています",
+        "en": "My father works at a school",
+        "de": "Mein Vater arbeitet in einer Schule",
+        "zh": "我父亲在学校工作",
+        "ko": "아버지는 학교에서 일합니다",
+        "es": "Mi padre trabaja en una escuela",
+        "pt": "Meu pai trabalha em uma escola",
+        "it": "Mio padre lavora in una scuola",
+        "fr": "Mon père travaille dans une école"
+      },
+      "pronunciation": {
+        "zh": "Wǒ fùqīn zài xuéxiào gōngzuò",
+        "ko": "Abeojineun hakgyoeseo ilhamnida"
+      }
+    },
+    {
+      "id": "m1-021-5",
+      "construct_id": 21,
+      "variation": 5,
+      "translations": {
+        "ja": "友達はレストランで働いています",
+        "en": "My friend works at a restaurant",
+        "de": "Mein Freund arbeitet in einem Restaurant",
+        "zh": "我朋友在餐厅工作",
+        "ko": "친구는 식당에서 일합니다",
+        "es": "Mi amigo trabaja en un restaurante",
+        "pt": "Meu amigo trabalha em um restaurante",
+        "it": "Il mio amico lavora in un ristorante",
+        "fr": "Mon ami travaille dans un restaurant"
+      },
+      "pronunciation": {
+        "zh": "Wǒ péngyǒu zài cāntīng gōngzuò",
+        "ko": "Chinguneun sikdangeseo ilhamnida"
+      }
+    },
+    {
+      "id": "m1-022-1",
+      "construct_id": 22,
+      "variation": 1,
+      "translations": {
+        "ja": "私はコーヒーを飲みません",
+        "en": "I don't drink coffee",
+        "de": "Ich trinke keinen Kaffee",
+        "zh": "我不喝咖啡",
+        "ko": "저는 커피를 마시지 않습니다",
+        "es": "No bebo café",
+        "pt": "Não bebo café",
+        "it": "Non bevo caffè",
+        "fr": "Je ne bois pas de café"
+      },
+      "pronunciation": {
+        "zh": "Wǒ bù hē kāfēi",
+        "ko": "Jeoneun keopireul masiji anhseumnida"
+      }
+    },
+    {
+      "id": "m1-022-2",
+      "construct_id": 22,
+      "variation": 2,
+      "translations": {
+        "ja": "私はタバコを吸いません",
+        "en": "I don't smoke",
+        "de": "Ich rauche nicht",
+        "zh": "我不抽烟",
+        "ko": "저는 담배를 피우지 않습니다",
+        "es": "No fumo",
+        "pt": "Não fumo",
+        "it": "Non fumo",
+        "fr": "Je ne fume pas"
+      },
+      "pronunciation": {
+        "zh": "Wǒ bù chōu yān",
+        "ko": "Jeoneun dambaereul piuji anhseumnida"
+      }
+    },
+    {
+      "id": "m1-022-3",
+      "construct_id": 22,
+      "variation": 3,
+      "translations": {
+        "ja": "私は肉を食べません",
+        "en": "I don't eat meat",
+        "de": "Ich esse kein Fleisch",
+        "zh": "我不吃肉",
+        "ko": "저는 고기를 먹지 않습니다",
+        "es": "No como carne",
+        "pt": "Não como carne",
+        "it": "Non mangio carne",
+        "fr": "Je ne mange pas de viande"
+      },
+      "pronunciation": {
+        "zh": "Wǒ bù chī ròu",
+        "ko": "Jeoneun gogireul mokji anhseumnida"
+      }
+    },
+    {
+      "id": "m1-022-4",
+      "construct_id": 22,
+      "variation": 4,
+      "translations": {
+        "ja": "私は車を運転しません",
+        "en": "I don't drive",
+        "de": "Ich fahre nicht Auto",
+        "zh": "我不开车",
+        "ko": "저는 운전을 하지 않습니다",
+        "es": "No conduzco",
+        "pt": "Não dirijo",
+        "it": "Non guido",
+        "fr": "Je ne conduis pas"
+      },
+      "pronunciation": {
+        "zh": "Wǒ bù kāi chē",
+        "ko": "Jeoneun unjeoneul haji anhseumnida"
+      }
+    },
+    {
+      "id": "m1-022-5",
+      "construct_id": 22,
+      "variation": 5,
+      "translations": {
+        "ja": "私はテレビを見ません",
+        "en": "I don't watch TV",
+        "de": "Ich sehe nicht fern",
+        "zh": "我不看电视",
+        "ko": "저는 텔레비전을 보지 않습니다",
+        "es": "No veo televisión",
+        "pt": "Não vejo TV",
+        "it": "Non guardo la TV",
+        "fr": "Je ne regarde pas la télé"
+      },
+      "pronunciation": {
+        "zh": "Wǒ bù kàn diànshì",
+        "ko": "Jeoneun tellebijeoneul boji anhseumnida"
+      }
+    },
+    {
+      "id": "m1-023-1",
+      "construct_id": 23,
+      "variation": 1,
+      "translations": {
+        "ja": "テニスをしますか?",
+        "en": "Do you play tennis?",
+        "de": "Spielst du Tennis?",
+        "zh": "你打网球吗?",
+        "ko": "테니스 칩니까?",
+        "es": "¿Juegas al tenis?",
+        "pt": "Você joga tênis?",
+        "it": "Giochi a tennis?",
+        "fr": "Tu joues au tennis?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ dǎ wǎngqiú ma?",
+        "ko": "Teniseu chimnikka?"
+      }
+    },
+    {
+      "id": "m1-023-2",
+      "construct_id": 23,
+      "variation": 2,
+      "translations": {
+        "ja": "コーヒーを飲みますか?",
+        "en": "Do you drink coffee?",
+        "de": "Trinkst du Kaffee?",
+        "zh": "你喝咖啡吗?",
+        "ko": "커피 마십니까?",
+        "es": "¿Bebes café?",
+        "pt": "Você bebe café?",
+        "it": "Bevi caffè?",
+        "fr": "Tu bois du café?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ hē kāfēi ma?",
+        "ko": "Keopi masimnikka?"
+      }
+    },
+    {
+      "id": "m1-023-3",
+      "construct_id": 23,
+      "variation": 3,
+      "translations": {
+        "ja": "日本語を勉強しますか?",
+        "en": "Do you study Japanese?",
+        "de": "Lernst du Japanisch?",
+        "zh": "你学日语吗?",
+        "ko": "일본어 공부합니까?",
+        "es": "¿Estudias japonés?",
+        "pt": "Você estuda japonês?",
+        "it": "Studi giapponese?",
+        "fr": "Tu étudies le japonais?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ xué Rìyǔ ma?",
+        "ko": "Ilboneo gongbuhamnikka?"
+      }
+    },
+    {
+      "id": "m1-023-4",
+      "construct_id": 23,
+      "variation": 4,
+      "translations": {
+        "ja": "毎日運動しますか?",
+        "en": "Do you exercise every day?",
+        "de": "Trainierst du jeden Tag?",
+        "zh": "你每天运动吗?",
+        "ko": "매일 운동합니까?",
+        "es": "¿Haces ejercicio todos los días?",
+        "pt": "Você se exercita todos os dias?",
+        "it": "Fai sport ogni giorno?",
+        "fr": "Tu fais du sport tous les jours?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ měitiān yùndòng ma?",
+        "ko": "Maeil undonghamnikka?"
+      }
+    },
+    {
+      "id": "m1-023-5",
+      "construct_id": 23,
+      "variation": 5,
+      "translations": {
+        "ja": "音楽を聴きますか?",
+        "en": "Do you listen to music?",
+        "de": "Hörst du Musik?",
+        "zh": "你听音乐吗?",
+        "ko": "음악 듣습니까?",
+        "es": "¿Escuchas música?",
+        "pt": "Você escuta música?",
+        "it": "Ascolti musica?",
+        "fr": "Tu écoutes de la musique?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ tīng yīnyuè ma?",
+        "ko": "Eumak deudseumnikka?"
+      }
+    },
+    {
+      "id": "m1-024-1",
+      "construct_id": 24,
+      "variation": 1,
+      "translations": {
+        "ja": "何を読んでいますか?",
+        "en": "What are you reading?",
+        "de": "Was liest du?",
+        "zh": "你在读什么?",
+        "ko": "무엇을 읽고 있어요?",
+        "es": "¿Qué estás leyendo?",
+        "pt": "O que você está lendo?",
+        "it": "Cosa stai leggendo?",
+        "fr": "Qu'est-ce que tu lis?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ zài dú shénme?",
+        "ko": "Mueoseul ikgo isseoyo?"
+      }
+    },
+    {
+      "id": "m1-024-2",
+      "construct_id": 24,
+      "variation": 2,
+      "translations": {
+        "ja": "何を食べていますか?",
+        "en": "What are you eating?",
+        "de": "Was isst du?",
+        "zh": "你在吃什么?",
+        "ko": "무엇을 먹고 있어요?",
+        "es": "¿Qué estás comiendo?",
+        "pt": "O que você está comendo?",
+        "it": "Cosa stai mangiando?",
+        "fr": "Qu'est-ce que tu manges?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ zài chī shénme?",
+        "ko": "Mueoseul mokgo isseoyo?"
+      }
+    },
+    {
+      "id": "m1-024-3",
+      "construct_id": 24,
+      "variation": 3,
+      "translations": {
+        "ja": "何を見ていますか?",
+        "en": "What are you watching?",
+        "de": "Was schaust du?",
+        "zh": "你在看什么?",
+        "ko": "무엇을 보고 있어요?",
+        "es": "¿Qué estás viendo?",
+        "pt": "O que você está vendo?",
+        "it": "Cosa stai guardando?",
+        "fr": "Qu'est-ce que tu regardes?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ zài kàn shénme?",
+        "ko": "Mueoseul bogo isseoyo?"
+      }
+    },
+    {
+      "id": "m1-024-4",
+      "construct_id": 24,
+      "variation": 4,
+      "translations": {
+        "ja": "何を作っていますか?",
+        "en": "What are you making?",
+        "de": "Was machst du?",
+        "zh": "你在做什么?",
+        "ko": "무엇을 만들고 있어요?",
+        "es": "¿Qué estás haciendo?",
+        "pt": "O que você está fazendo?",
+        "it": "Cosa stai facendo?",
+        "fr": "Qu'est-ce que tu fais?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ zài zuò shénme?",
+        "ko": "Mueoseul mandeulgo isseoyo?"
+      }
+    },
+    {
+      "id": "m1-024-5",
+      "construct_id": 24,
+      "variation": 5,
+      "translations": {
+        "ja": "何を考えていますか?",
+        "en": "What are you thinking?",
+        "de": "Woran denkst du?",
+        "zh": "你在想什么?",
+        "ko": "무슨 생각을 하고 있어요?",
+        "es": "¿En qué estás pensando?",
+        "pt": "Em que você está pensando?",
+        "it": "A cosa stai pensando?",
+        "fr": "À quoi penses-tu?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ zài xiǎng shénme?",
+        "ko": "Museun saenggageul hago isseoyo?"
+      }
+    },
+    {
+      "id": "m1-025-1",
+      "construct_id": 25,
+      "variation": 1,
+      "translations": {
+        "ja": "私は泳げます",
+        "en": "I can swim",
+        "de": "Ich kann schwimmen",
+        "zh": "我会游泳",
+        "ko": "저는 수영할 수 있습니다",
+        "es": "Sé nadar",
+        "pt": "Sei nadar",
+        "it": "So nuotare",
+        "fr": "Je sais nager"
+      },
+      "pronunciation": {
+        "zh": "Wǒ huì yóuyǒng",
+        "ko": "Jeoneun suyeonghal su itseumnida"
+      }
+    },
+    {
+      "id": "m1-025-2",
+      "construct_id": 25,
+      "variation": 2,
+      "translations": {
+        "ja": "私は料理ができます",
+        "en": "I can cook",
+        "de": "Ich kann kochen",
+        "zh": "我会做饭",
+        "ko": "저는 요리할 수 있습니다",
+        "es": "Sé cocinar",
+        "pt": "Sei cozinhar",
+        "it": "So cucinare",
+        "fr": "Je sais cuisiner"
+      },
+      "pronunciation": {
+        "zh": "Wǒ huì zuò fàn",
+        "ko": "Jeoneun yorihal su itseumnida"
+      }
+    },
+    {
+      "id": "m1-025-3",
+      "construct_id": 25,
+      "variation": 3,
+      "translations": {
+        "ja": "私は車を運転できます",
+        "en": "I can drive",
+        "de": "Ich kann Auto fahren",
+        "zh": "我会开车",
+        "ko": "저는 운전할 수 있습니다",
+        "es": "Sé conducir",
+        "pt": "Sei dirigir",
+        "it": "So guidare",
+        "fr": "Je sais conduire"
+      },
+      "pronunciation": {
+        "zh": "Wǒ huì kāi chē",
+        "ko": "Jeoneun unjeonhal su itseumnida"
+      }
+    },
+    {
+      "id": "m1-025-4",
+      "construct_id": 25,
+      "variation": 4,
+      "translations": {
+        "ja": "私は英語を話せます",
+        "en": "I can speak English",
+        "de": "Ich kann Englisch sprechen",
+        "zh": "我会说英语",
+        "ko": "저는 영어를 할 수 있습니다",
+        "es": "Hablo inglés",
+        "pt": "Falo inglês",
+        "it": "Parlo inglese",
+        "fr": "Je parle anglais"
+      },
+      "pronunciation": {
+        "zh": "Wǒ huì shuō Yīngyǔ",
+        "ko": "Jeoneun yeongeoreul hal su itseumnida"
+      }
+    },
+    {
+      "id": "m1-025-5",
+      "construct_id": 25,
+      "variation": 5,
+      "translations": {
+        "ja": "私はピアノが弾けます",
+        "en": "I can play the piano",
+        "de": "Ich kann Klavier spielen",
+        "zh": "我会弹钢琴",
+        "ko": "저는 피아노를 칠 수 있습니다",
+        "es": "Sé tocar el piano",
+        "pt": "Sei tocar piano",
+        "it": "So suonare il pianoforte",
+        "fr": "Je sais jouer du piano"
+      },
+      "pronunciation": {
+        "zh": "Wǒ huì tán gāngqín",
+        "ko": "Jeoneun pianoreul chil su itseumnida"
+      }
+    },
+    {
+      "id": "m1-026-1",
+      "construct_id": 26,
+      "variation": 1,
+      "translations": {
+        "ja": "私は泳げません",
+        "en": "I can't swim",
+        "de": "Ich kann nicht schwimmen",
+        "zh": "我不会游泳",
+        "ko": "저는 수영을 못합니다",
+        "es": "No sé nadar",
+        "pt": "Não sei nadar",
+        "it": "Non so nuotare",
+        "fr": "Je ne sais pas nager"
+      },
+      "pronunciation": {
+        "zh": "Wǒ bù huì yóuyǒng",
+        "ko": "Jeoneun suyeongeul mothamnida"
+      }
+    },
+    {
+      "id": "m1-026-2",
+      "construct_id": 26,
+      "variation": 2,
+      "translations": {
+        "ja": "私はスペイン語を話せません",
+        "en": "I can't speak Spanish",
+        "de": "Ich kann kein Spanisch",
+        "zh": "我不会说西班牙语",
+        "ko": "저는 스페인어를 못합니다",
+        "es": "No hablo español",
+        "pt": "Não falo espanhol",
+        "it": "Non parlo spagnolo",
+        "fr": "Je ne parle pas espagnol"
+      },
+      "pronunciation": {
+        "zh": "Wǒ bù huì shuō Xībānyáyǔ",
+        "ko": "Jeoneun seupeineoreul mothamnida"
+      }
+    },
+    {
+      "id": "m1-026-3",
+      "construct_id": 26,
+      "variation": 3,
+      "translations": {
+        "ja": "私は今行けません",
+        "en": "I can't go now",
+        "de": "Ich kann jetzt nicht gehen",
+        "zh": "我现在不能去",
+        "ko": "저는 지금 갈 수 없습니다",
+        "es": "No puedo ir ahora",
+        "pt": "Não posso ir agora",
+        "it": "Non posso andare adesso",
+        "fr": "Je ne peux pas y aller maintenant"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xiànzài bù néng qù",
+        "ko": "Jeoneun jigeum gal su eopseumnida"
+      }
+    },
+    {
+      "id": "m1-026-4",
+      "construct_id": 26,
+      "variation": 4,
+      "translations": {
+        "ja": "私は思い出せません",
+        "en": "I can't remember",
+        "de": "Ich kann mich nicht erinnern",
+        "zh": "我想不起来",
+        "ko": "저는 기억이 안 납니다",
+        "es": "No me acuerdo",
+        "pt": "Não consigo lembrar",
+        "it": "Non riesco a ricordare",
+        "fr": "Je ne me souviens pas"
+      },
+      "pronunciation": {
+        "zh": "Wǒ xiǎng bù qǐlái",
+        "ko": "Jeoneun gieogi an namnida"
+      }
+    },
+    {
+      "id": "m1-026-5",
+      "construct_id": 26,
+      "variation": 5,
+      "translations": {
+        "ja": "私はそれを見つけられません",
+        "en": "I can't find it",
+        "de": "Ich kann es nicht finden",
+        "zh": "我找不到它",
+        "ko": "저는 그것을 찾을 수 없습니다",
+        "es": "No puedo encontrarlo",
+        "pt": "Não consigo encontrar",
+        "it": "Non riesco a trovarlo",
+        "fr": "Je ne le trouve pas"
+      },
+      "pronunciation": {
+        "zh": "Wǒ zhǎo bù dào tā",
+        "ko": "Jeoneun geugeoseul chajeul su eopseumnida"
+      }
+    },
+    {
+      "id": "m1-027-1",
+      "construct_id": 27,
+      "variation": 1,
+      "translations": {
+        "ja": "日本語を話せますか?",
+        "en": "Can you speak Japanese?",
+        "de": "Sprichst du Japanisch?",
+        "zh": "你会说日语吗?",
+        "ko": "일본어 할 수 있어요?",
+        "es": "¿Hablas japonés?",
+        "pt": "Você fala japonês?",
+        "it": "Parli giapponese?",
+        "fr": "Tu parles japonais?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ huì shuō Rìyǔ ma?",
+        "ko": "Ilboneo hal su isseoyo?"
+      }
+    },
+    {
+      "id": "m1-027-2",
+      "construct_id": 27,
+      "variation": 2,
+      "translations": {
+        "ja": "ここで写真を撮れますか?",
+        "en": "Can I take a photo here?",
+        "de": "Kann ich hier ein Foto machen?",
+        "zh": "我可以在这里拍照吗?",
+        "ko": "여기서 사진 찍어도 돼요?",
+        "es": "¿Puedo tomar una foto aquí?",
+        "pt": "Posso tirar uma foto aqui?",
+        "it": "Posso fare una foto qui?",
+        "fr": "Puis-je prendre une photo ici?"
+      },
+      "pronunciation": {
+        "zh": "Wǒ kěyǐ zài zhèlǐ pāizhào ma?",
+        "ko": "Yeogiseo sajin jjigeodo dwaeyo?"
+      }
+    },
+    {
+      "id": "m1-027-3",
+      "construct_id": 27,
+      "variation": 3,
+      "translations": {
+        "ja": "私を手伝えますか?",
+        "en": "Can you help me?",
+        "de": "Kannst du mir helfen?",
+        "zh": "你能帮我吗?",
+        "ko": "저를 도와줄 수 있어요?",
+        "es": "¿Puedes ayudarme?",
+        "pt": "Você pode me ajudar?",
+        "it": "Puoi aiutarmi?",
+        "fr": "Tu peux m'aider?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ néng bāng wǒ ma?",
+        "ko": "Jeoreul dowajul su isseoyo?"
+      }
+    },
+    {
+      "id": "m1-027-4",
+      "construct_id": 27,
+      "variation": 4,
+      "translations": {
+        "ja": "もう一度言ってもらえますか?",
+        "en": "Can you say it again?",
+        "de": "Kannst du das wiederholen?",
+        "zh": "你能再说一遍吗?",
+        "ko": "다시 말씀해 주실 수 있어요?",
+        "es": "¿Puedes repetirlo?",
+        "pt": "Você pode repetir?",
+        "it": "Puoi ripetere?",
+        "fr": "Tu peux répéter?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ néng zài shuō yī biàn ma?",
+        "ko": "Dasi malsseumhae jusil su isseoyo?"
+      }
+    },
+    {
+      "id": "m1-027-5",
+      "construct_id": 27,
+      "variation": 5,
+      "translations": {
+        "ja": "早く来られますか?",
+        "en": "Can you come quickly?",
+        "de": "Kannst du schnell kommen?",
+        "zh": "你能快点来吗?",
+        "ko": "빨리 올 수 있어요?",
+        "es": "¿Puedes venir rápido?",
+        "pt": "Você pode vir rápido?",
+        "it": "Puoi venire velocemente?",
+        "fr": "Tu peux venir vite?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ néng kuài diǎn lái ma?",
+        "ko": "Ppalli ol su isseoyo?"
+      }
+    },
+    {
+      "id": "m1-028-1",
+      "construct_id": 28,
+      "variation": 1,
+      "translations": {
+        "ja": "いつ来ますか?",
+        "en": "When are you coming?",
+        "de": "Wann kommst du?",
+        "zh": "你什么时候来?",
+        "ko": "언제 와요?",
+        "es": "¿Cuándo vienes?",
+        "pt": "Quando você vem?",
+        "it": "Quando vieni?",
+        "fr": "Quand est-ce que tu viens?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ shénme shíhòu lái?",
+        "ko": "Eonje wayo?"
+      }
+    },
+    {
+      "id": "m1-028-2",
+      "construct_id": 28,
+      "variation": 2,
+      "translations": {
+        "ja": "いつ会えますか?",
+        "en": "When can we meet?",
+        "de": "Wann können wir uns treffen?",
+        "zh": "我们什么时候能见面?",
+        "ko": "언제 만날 수 있어요?",
+        "es": "¿Cuándo podemos vernos?",
+        "pt": "Quando podemos nos encontrar?",
+        "it": "Quando possiamo vederci?",
+        "fr": "Quand est-ce qu'on peut se voir?"
+      },
+      "pronunciation": {
+        "zh": "Wǒmen shénme shíhòu néng jiànmiàn?",
+        "ko": "Eonje mannal su isseoyo?"
+      }
+    },
+    {
+      "id": "m1-028-3",
+      "construct_id": 28,
+      "variation": 3,
+      "translations": {
+        "ja": "いつ始まりますか?",
+        "en": "When does it start?",
+        "de": "Wann fängt es an?",
+        "zh": "什么时候开始?",
+        "ko": "언제 시작해요?",
+        "es": "¿Cuándo empieza?",
+        "pt": "Quando começa?",
+        "it": "Quando inizia?",
+        "fr": "Quand est-ce que ça commence?"
+      },
+      "pronunciation": {
+        "zh": "Shénme shíhòu kāishǐ?",
+        "ko": "Eonje sijakhaeyo?"
+      }
+    },
+    {
+      "id": "m1-028-4",
+      "construct_id": 28,
+      "variation": 4,
+      "translations": {
+        "ja": "いつ終わりますか?",
+        "en": "When does it end?",
+        "de": "Wann ist es zu Ende?",
+        "zh": "什么时候结束?",
+        "ko": "언제 끝나요?",
+        "es": "¿Cuándo termina?",
+        "pt": "Quando termina?",
+        "it": "Quando finisce?",
+        "fr": "Quand est-ce que ça finit?"
+      },
+      "pronunciation": {
+        "zh": "Shénme shíhòu jiéshù?",
+        "ko": "Eonje kkeutnayo?"
+      }
+    },
+    {
+      "id": "m1-028-5",
+      "construct_id": 28,
+      "variation": 5,
+      "translations": {
+        "ja": "いつ出発しますか?",
+        "en": "When are you leaving?",
+        "de": "Wann fährst du ab?",
+        "zh": "你什么时候出发?",
+        "ko": "언제 출발해요?",
+        "es": "¿Cuándo sales?",
+        "pt": "Quando você parte?",
+        "it": "Quando parti?",
+        "fr": "Quand est-ce que tu pars?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ shénme shíhòu chūfā?",
+        "ko": "Eonje chulbalhaeyo?"
+      }
+    },
+    {
+      "id": "m1-029-1",
+      "construct_id": 29,
+      "variation": 1,
+      "translations": {
+        "ja": "なぜ遅れたの?",
+        "en": "Why are you late?",
+        "de": "Warum bist du spät?",
+        "zh": "你为什么迟到?",
+        "ko": "왜 늦었어요?",
+        "es": "¿Por qué llegas tarde?",
+        "pt": "Por que você se atrasou?",
+        "it": "Perché sei in ritardo?",
+        "fr": "Pourquoi es-tu en retard?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ wèishéme chídào?",
+        "ko": "Wae neujeosseoyo?"
+      }
+    },
+    {
+      "id": "m1-029-2",
+      "construct_id": 29,
+      "variation": 2,
+      "translations": {
+        "ja": "なぜ泣いているの?",
+        "en": "Why are you crying?",
+        "de": "Warum weinst du?",
+        "zh": "你为什么哭?",
+        "ko": "왜 울어요?",
+        "es": "¿Por qué lloras?",
+        "pt": "Por que você está chorando?",
+        "it": "Perché piangi?",
+        "fr": "Pourquoi pleures-tu?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ wèishéme kū?",
+        "ko": "Wae ureoyo?"
+      }
+    },
+    {
+      "id": "m1-029-3",
+      "construct_id": 29,
+      "variation": 3,
+      "translations": {
+        "ja": "なぜここにいるの?",
+        "en": "Why are you here?",
+        "de": "Warum bist du hier?",
+        "zh": "你为什么在这里?",
+        "ko": "왜 여기 있어요?",
+        "es": "¿Por qué estás aquí?",
+        "pt": "Por que você está aqui?",
+        "it": "Perché sei qui?",
+        "fr": "Pourquoi es-tu ici?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ wèishéme zài zhèlǐ?",
+        "ko": "Wae yeogi isseoyo?"
+      }
+    },
+    {
+      "id": "m1-029-4",
+      "construct_id": 29,
+      "variation": 4,
+      "translations": {
+        "ja": "なぜ来なかったの?",
+        "en": "Why didn't you come?",
+        "de": "Warum bist du nicht gekommen?",
+        "zh": "你为什么没来?",
+        "ko": "왜 안 왔어요?",
+        "es": "¿Por qué no viniste?",
+        "pt": "Por que você não veio?",
+        "it": "Perché non sei venuto?",
+        "fr": "Pourquoi n'es-tu pas venu?"
+      },
+      "pronunciation": {
+        "zh": "Nǐ wèishéme méi lái?",
+        "ko": "Wae an wasseoyo?"
+      }
+    },
+    {
+      "id": "m1-029-5",
+      "construct_id": 29,
+      "variation": 5,
+      "translations": {
+        "ja": "なぜ難しいの?",
+        "en": "Why is it difficult?",
+        "de": "Warum ist es schwierig?",
+        "zh": "为什么很难?",
+        "ko": "왜 어려워요?",
+        "es": "¿Por qué es difícil?",
+        "pt": "Por que é difícil?",
+        "it": "Perché è difficile?",
+        "fr": "Pourquoi est-ce difficile?"
+      },
+      "pronunciation": {
+        "zh": "Wèishéme hěn nán?",
+        "ko": "Wae eoryeowoyo?"
+      }
+    },
+    {
+      "id": "m1-030-1",
+      "construct_id": 30,
+      "variation": 1,
+      "translations": {
+        "ja": "誰が来ますか?",
+        "en": "Who is coming?",
+        "de": "Wer kommt?",
+        "zh": "谁来?",
+        "ko": "누가 와요?",
+        "es": "¿Quién viene?",
+        "pt": "Quem vem?",
+        "it": "Chi viene?",
+        "fr": "Qui vient?"
+      },
+      "pronunciation": {
+        "zh": "Shéi lái?",
+        "ko": "Nuga wayo?"
+      }
+    },
+    {
+      "id": "m1-030-2",
+      "construct_id": 30,
+      "variation": 2,
+      "translations": {
+        "ja": "誰がそれを言いましたか?",
+        "en": "Who said that?",
+        "de": "Wer hat das gesagt?",
+        "zh": "谁说的?",
+        "ko": "누가 그렇게 말했어요?",
+        "es": "¿Quién lo dijo?",
+        "pt": "Quem disse isso?",
+        "it": "Chi l'ha detto?",
+        "fr": "Qui a dit ça?"
+      },
+      "pronunciation": {
+        "zh": "Shéi shuō de?",
+        "ko": "Nuga geureoke malhaesseoyo?"
+      }
+    },
+    {
+      "id": "m1-030-3",
+      "construct_id": 30,
+      "variation": 3,
+      "translations": {
+        "ja": "誰が責任者ですか?",
+        "en": "Who is in charge?",
+        "de": "Wer ist verantwortlich?",
+        "zh": "谁负责?",
+        "ko": "누가 책임자입니까?",
+        "es": "¿Quién está a cargo?",
+        "pt": "Quem é o responsável?",
+        "it": "Chi è il responsabile?",
+        "fr": "Qui est responsable?"
+      },
+      "pronunciation": {
+        "zh": "Shéi fùzé?",
+        "ko": "Nuga chaegimjaimnikka?"
+      }
+    },
+    {
+      "id": "m1-030-4",
+      "construct_id": 30,
+      "variation": 4,
+      "translations": {
+        "ja": "誰が手伝ってくれますか?",
+        "en": "Who can help?",
+        "de": "Wer kann helfen?",
+        "zh": "谁能帮忙?",
+        "ko": "누가 도와줄 수 있어요?",
+        "es": "¿Quién puede ayudar?",
+        "pt": "Quem pode ajudar?",
+        "it": "Chi può aiutare?",
+        "fr": "Qui peut aider?"
+      },
+      "pronunciation": {
+        "zh": "Shéi néng bāngmáng?",
+        "ko": "Nuga dowajul su isseoyo?"
+      }
+    },
+    {
+      "id": "m1-030-5",
+      "construct_id": 30,
+      "variation": 5,
+      "translations": {
+        "ja": "誰がこれを作りましたか?",
+        "en": "Who made this?",
+        "de": "Wer hat das gemacht?",
+        "zh": "这是谁做的?",
+        "ko": "누가 이것을 만들었어요?",
+        "es": "¿Quién hizo esto?",
+        "pt": "Quem fez isso?",
+        "it": "Chi ha fatto questo?",
+        "fr": "Qui a fait ça?"
+      },
+      "pronunciation": {
+        "zh": "Zhè shì shéi zuò de?",
+        "ko": "Nuga igeoseul mandeureosseoyo?"
+      }
+    }
+  ]
+}
